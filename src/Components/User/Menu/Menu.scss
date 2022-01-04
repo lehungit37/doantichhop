@@ -1,0 +1,80 @@
+
+.menu__topItem{
+    margin: auto 5px;
+    .userLogin{
+        display:  flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin: auto 10px;
+        color: #ffff;
+        .img__user{
+            margin-right: 10px;
+            height: 45px;
+            width: 45px;
+            background: #00b894;
+            text-align: center;
+            border-radius: 100rem;
+            overflow: hidden;
+            font-size: 1.5rem;
+            img{
+                width: 100%;
+            }
+        }
+        .name__user{
+            margin:auto 5px;
+            font-size: 1.1rem;
+        }
+        i{
+            margin: auto 0px;
+            cursor: pointer;
+        }
+        .list__control{
+            position: absolute;
+            top: 55px;
+            right: 65px;
+            background: #b2bec3;
+            color:#000;
+            z-index: 999;
+            transition: .3s;
+            visibility: hidden;
+            opacity: 0;
+
+            &.active__control{
+                visibility: visible;
+                opacity: 1;
+            }
+            .item__control{
+                padding: 10px;
+                border-bottom: 1px solid #000;
+
+                &.logOut{
+                    color: #fff;
+                    cursor: pointer;
+
+                    &:hover{
+                        color: #ff7675;
+                    }
+                }
+            }
+        }
+
+
+    }
+
+    #cart{
+        font-size: 1.5rem;
+        position: relative;
+
+        span{
+            background-color: #00b894;
+            position: absolute;
+            right: -1.5rem;
+            font-size: 1.2rem;
+            font-weight: 600;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            text-align: center;
+        }
+    }
+}

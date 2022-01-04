@@ -1,0 +1,115 @@
+@mixin flex($direction, $justify) {
+    display: flex;
+    flex-direction: $direction;
+    justify-content: $justify;
+}
+
+$color: #11A1FD;
+
+.main .container .products .product__list {
+    justify-content: flex-start;
+}
+
+.select-item {
+    position: relative;
+    display: inline-block;
+
+    .sort__title {
+        display: inline-block;
+        background-color: #0984e3;
+        color: #fff;
+        padding: 5px 60px;
+        text-align: left;
+        position: relative;
+        cursor: pointer;
+        transition: .3s;
+
+        ion-icon.md.hydrated {
+            position: absolute;
+            top: 50%;
+            right: 7px;
+
+            color: #fff;
+            transform: translateY(-43%);
+        }
+    }
+
+    .sort__list {
+        width: 100%;
+        height: fit-content;
+        position: absolute;
+        z-index: 5;
+        background: #a29bfe;
+        color: #fff;
+        visibility: hidden;
+        transition: .3s;
+        opacity: 0;
+
+        &.active__sort {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .sort__item {
+            padding: 5px 10px;
+            margin: 5px 0px;
+            transition: .3s;
+            cursor: pointer;
+            position: relative;
+
+            &:hover {
+                color: #0984e3;
+                background: #fff;
+            }
+
+            .icon__check {
+                position: absolute;
+                right: 4px;
+                top: 5px;
+            }
+        }
+    }
+}
+
+.sort {
+    justify-content: flex-start !important;
+}
+
+.product__img {
+    height: 20rem;
+    max-height: 20rem;
+
+    img {
+        height: 100%;
+    }
+}
+
+.page {
+    width: 100%;
+    padding: 0rem 12rem;
+
+    .page__list {
+        max-width: auto 10px;
+        @include flex(row, center);
+        flex-wrap: wrap;
+
+        .page__item {
+            padding: 5px 15px;
+            margin: 0px 5px;
+            border-radius: 10px;
+            cursor: pointer;
+            border: 1px solid #000;
+            background: #fff;
+            width: 50px;
+            text-align: center;
+            outline: none;
+
+            &.active {
+                background-color: $color;
+                color: #fff;
+                border: 1px solid $color;
+
+            }
+        }
+    }
+}

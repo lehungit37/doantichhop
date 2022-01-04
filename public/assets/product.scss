@@ -1,0 +1,189 @@
+@mixin flex($direction, $justify){
+    display: flex;
+    flex-direction: $direction;
+    justify-content: $justify;
+}
+$colorHover: #ff7675;
+
+.product__list{
+    @include flex(row,space-between );
+    width: 100%;
+    .product__item{
+        width: calc(100%/4 - 1rem);
+        margin: 0 15px;
+        transition: .3s ease-in-out;
+        &:hover{
+            box-shadow: 5px 5px 10px 5px #dfe6e9;
+        }
+        .product__img{
+            width: 100%;
+           position: relative;
+           overflow: hidden;
+            
+            a{
+                img{
+                  
+                    width: 100%;
+                    
+                }
+            }
+            .product__handle{
+                @include flex(row,space-around );
+                position: absolute;
+                bottom: -75px;
+                left: 0;
+                width: 100%;
+                transition: .3s ease-in-out;
+
+               
+                &.active__hover{
+                    bottom: 0px;
+                }
+                .btn__handle{
+                    width: 50%;
+                    border: 1px solid $colorHover;
+                    background: #fff;
+                    text-align: center;
+                    padding: .5rem;
+                    cursor: pointer;
+                    position: relative;
+                    transition: .3s ease-in-out;
+                    i{
+                        z-index: 10;
+                    }
+                   
+                    &:hover{
+                        background: $colorHover;
+                    }
+                    &::before, &::after{
+                        visibility: hidden;
+                        opacity: 0;
+                        transition: .3s ease-in-out;
+                        z-index: -1;
+                    }
+                    &::before{
+                        position: absolute;
+                        background-color: #000;
+                        color: #fff;
+                        top: -1.5rem;
+                        left: 50%;
+                        transform: translateX(-50%);
+                        width: 100%;
+                        font-size: 10px;
+                    }
+                    &::after{
+                        content: '';
+                        position: absolute;
+                        width: 0px;
+                        height: 0px;
+                        border: 10px solid #000;
+                        border-bottom: 10px solid transparent;
+                        border-left: 10px solid transparent;
+                        border-right: 10px solid transparent;
+                        color: #fff;
+                        top: -.7rem;
+                        left: 50%;
+                        transform: translateX(-50%);
+                    }
+                    &.active__btn{
+                      
+
+                        &::after, &::before{
+                            visibility: visible;
+                            opacity: 1;
+                        }
+                    }
+                    &.btn__view{
+                        color: $colorHover;
+                        text-decoration: $colorHover;
+                        
+                        &::before{
+                        content: "Xem chi tiết";
+                        }
+                        &::after{
+                            content: '';
+                        }
+                        &:hover{
+                            color: #fff;
+                        }
+                        
+                    }
+                    &.btn__addCart{
+                        color: $colorHover;
+                        text-decoration: none;
+                        &:hover{
+                            color: #fff;
+                        }
+                        &::before{
+                        content: "Thêm vào giỏ hàng";
+                        }
+                        &::after{
+                            content: '';
+                        }
+                        
+                    }
+                }
+            }
+        }
+
+        .infor{
+            width: 100%;
+
+            .product__name{
+                padding: 1rem 0;
+                border-bottom: 1px dashed #000;
+                a{
+                    color: #000;
+                    text-transform: uppercase;
+                    text-decoration: none;
+                }
+            }
+            .product__price{
+                padding: .5rem 0;
+                color: $colorHover;
+            }
+        }
+    }
+
+    .slick-prev, .slick-next{
+        width: 40px;
+        height: 40px;
+        opacity: 0;
+        visibility: hidden;
+        transition: .3s ease-in-out;
+        
+        &::before{
+            color: #000;
+            font-size: 40px;
+        }
+    }
+    .slick-next {
+        right: -40px;
+    }
+    .slick-prev {
+        left: -40px;
+    }
+
+    &:hover{
+        .slick-prev, .slick-next{
+            opacity: 1;
+            visibility: visible;
+        }
+    }
+}
+
+
+@keyframes stoke{
+    0%{
+        width: 0px;
+        height: 0px;
+    }
+    50%{
+        height: 10px;
+        width: calc(100%+10px);
+    }
+    100%{
+        height: calc(100%+20px);
+        width: calc(100%+10px);
+    }
+}

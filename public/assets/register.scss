@@ -1,0 +1,98 @@
+
+
+@mixin flex($direction, $justify) {
+    display: flex;
+    flex-direction: $direction;
+    justify-content: $justify;
+}
+$colorHover: #ff7675;
+$colorText: #a8a8a8;
+$colorBorderBottom: #686868;
+.main__register-form{
+    width: 100%;
+    .container{
+
+        h3{
+            font-size: 25px;
+            font-weight: 800;
+            width: 100%;
+            border-bottom: 1px solid $colorBorderBottom;
+            padding: 10px 0px;
+        }
+
+        p{
+            color: #a8a8a8;
+
+            a{
+                text-decoration: none;
+                color: #000;
+                &:hover{
+                    color: $colorHover;
+                }
+            }
+        }
+
+        .listform{
+            width: 50%;
+            .form__item{
+                width: 100%;
+
+                h5{
+                    border-bottom: 1px solid $colorBorderBottom;
+                }
+                .form__group{
+                    padding: 0px 2rem;
+                    width: 100%;
+                    margin: 1.4rem 0rem;
+                    @include flex(row,end );
+                    label{
+                        margin-right: 10px;
+                        width: 30%;
+                        position: relative;
+                        color: $colorText;
+                        font-weight: 600;
+                        &::before{
+                            content : '*';
+                            color: #f00;
+                            font-weight: bold;
+                            position: absolute;
+                            top: 4px;
+                            left: -10px;
+                            
+
+                        }
+                    }
+                    input{
+                        width: 70%;
+                        padding: 0px 15px;
+                        outline: none;
+                        border: 1px solid $colorBorderBottom;
+                        color: $colorText;
+                    }
+
+                    .form-check{
+                        label{
+                            &::before{
+                                content: "";
+                            }
+
+                            input{
+                                width: 150%;
+                            }
+                        }
+                    }
+                }
+
+                &.submit{
+                    @include flex(row,flex-end );
+
+                    span{
+                        margin-right: 10px;
+                        padding: 10px 0px;
+                        color: $colorText;
+                    }
+                }
+            }
+        }
+    }
+}

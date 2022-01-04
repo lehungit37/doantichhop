@@ -1,0 +1,9 @@
+.featured {
+  margin: 3rem 0px;
+}
+
+.featured .container .product__list .product__item {
+  margin: 0px;
+  width: 92% !important;
+}
+/*# sourceMappingURL=HomePage.css.map */

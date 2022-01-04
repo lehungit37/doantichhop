@@ -1,0 +1,5794 @@
+{
+   "countries": [
+        {
+            "id": "R1973756",
+            "name": "Hồ Chí Minh",
+            "nameLocal": "Hồ Chí Minh",
+            "parentId": "R49915",
+            "displayName": "Hồ Chí Minh"
+        },
+        {
+            "id": "R1875748",
+            "name": "An Giang",
+            "nameLocal": "An Giang",
+            "parentId": "R49915",
+            "displayName": "An Giang"
+        },
+        {
+            "id": "R1873533",
+            "name": "Bạc Liêu",
+            "nameLocal": "Bạc Liêu",
+            "parentId": "R49915",
+            "displayName": "Bạc Liêu"
+        },
+        {
+            "id": "R1904296",
+            "name": "Bà Rịa Vũng Tàu",
+            "nameLocal": "Bà Rịa Vũng Tàu",
+            "parentId": "R49915",
+            "displayName": "Bà Rịa Vũng Tàu"
+        },
+        {
+            "id": "R1902941",
+            "name": "Bắc Giang",
+            "nameLocal": "Bắc Giang",
+            "parentId": "R49915",
+            "displayName": "Bắc Giang"
+        },
+        {
+            "id": "R1903471",
+            "name": "Bắc Kạn",
+            "nameLocal": "Bắc Kạn",
+            "parentId": "R49915",
+            "displayName": "Bắc Kạn"
+        },
+        {
+            "id": "R1902690",
+            "name": "Bắc Ninh",
+            "nameLocal": "Bắc Ninh",
+            "parentId": "R49915",
+            "displayName": "Bắc Ninh"
+        },
+        {
+            "id": "R1875968",
+            "name": "Bến Tre",
+            "nameLocal": "Bến Tre",
+            "parentId": "R49915",
+            "displayName": "Bến Tre"
+        },
+        {
+            "id": "R1906037",
+            "name": "Bình Dương",
+            "nameLocal": "Bình Dương",
+            "parentId": "R49915",
+            "displayName": "Bình Dương"
+        },
+        {
+            "id": "R1889794",
+            "name": "Bình Định",
+            "nameLocal": "Bình Định",
+            "parentId": "R49915",
+            "displayName": "Bình Định"
+        },
+        {
+            "id": "R1898841",
+            "name": "Bình Phước",
+            "nameLocal": "Bình Phước",
+            "parentId": "R49915",
+            "displayName": "Bình Phước"
+        },
+        {
+            "id": "R1904231",
+            "name": "Bình Thuận",
+            "nameLocal": "Bình Thuận",
+            "parentId": "R49915",
+            "displayName": "Bình Thuận"
+        },
+        {
+            "id": "R1873490",
+            "name": "Cà Mau",
+            "nameLocal": "Cà Mau",
+            "parentId": "R49915",
+            "displayName": "Cà Mau"
+        },
+        {
+            "id": "R1844412",
+            "name": "Cao Bằng",
+            "nameLocal": "Cao Bằng",
+            "parentId": "R49915",
+            "displayName": "Cao Bằng"
+        },
+        {
+            "id": "R1874283",
+            "name": "Cần Thơ",
+            "nameLocal": "Cần Thơ",
+            "parentId": "R49915",
+            "displayName": "Cần Thơ"
+        },
+        {
+            "id": "R1891418",
+            "name": "Đà Nẵng",
+            "nameLocal": "Đà Nẵng",
+            "parentId": "R49915",
+            "displayName": "Đà Nẵng"
+        },
+        {
+            "id": "R1884034",
+            "name": "Đăk Lăk",
+            "nameLocal": "Đăk Lăk",
+            "parentId": "R49915",
+            "displayName": "Đăk Lăk"
+        },
+        {
+            "id": "R1884042",
+            "name": "Đăk Nông",
+            "nameLocal": "Đăk Nông",
+            "parentId": "R49915",
+            "displayName": "Đăk Nông"
+        },
+        {
+            "id": "R1903340",
+            "name": "Điện Biên",
+            "nameLocal": "Điện Biên",
+            "parentId": "R49915",
+            "displayName": "Điện Biên"
+        },
+        {
+            "id": "R1904421",
+            "name": "Đồng Nai",
+            "nameLocal": "Đồng Nai",
+            "parentId": "R49915",
+            "displayName": "Đồng Nai"
+        },
+        {
+            "id": "R1875866",
+            "name": "Đồng Tháp",
+            "nameLocal": "Đồng Tháp",
+            "parentId": "R49915",
+            "displayName": "Đồng Tháp"
+        },
+        {
+            "id": "R1884018",
+            "name": "Gia Lai",
+            "nameLocal": "Gia Lai",
+            "parentId": "R49915",
+            "displayName": "Gia Lai"
+        },
+        {
+            "id": "R1903478",
+            "name": "Hà Giang",
+            "nameLocal": "Hà Giang",
+            "parentId": "R49915",
+            "displayName": "Hà Giang"
+        },
+        {
+            "id": "R1902686",
+            "name": "Hải Dương",
+            "nameLocal": "Hải Dương",
+            "parentId": "R49915",
+            "displayName": "Hải Dương"
+        },
+        {
+            "id": "R1902682",
+            "name": "Hải Phòng",
+            "nameLocal": "Hải Phòng",
+            "parentId": "R49915",
+            "displayName": "Hải Phòng"
+        },
+        {
+            "id": "R1901010",
+            "name": "Hà Nam",
+            "nameLocal": "Hà Nam",
+            "parentId": "R49915",
+            "displayName": "Hà Nam"
+        },
+        {
+            "id": "R1903516",
+            "name": "Hà Nội",
+            "nameLocal": "Hà Nội",
+            "parentId": "R49915",
+            "displayName": "Hà Nội"
+        },
+        {
+            "id": "R1898458",
+            "name": "Hà Tĩnh",
+            "nameLocal": "Hà Tĩnh",
+            "parentId": "R49915",
+            "displayName": "Hà Tĩnh"
+        },
+        {
+            "id": "R1874249",
+            "name": "Hậu Giang",
+            "nameLocal": "Hậu Giang",
+            "parentId": "R49915",
+            "displayName": "Hậu Giang"
+        },
+        {
+            "id": "R1902973",
+            "name": "Hòa Bình",
+            "nameLocal": "Hòa Bình",
+            "parentId": "R49915",
+            "displayName": "Hòa Bình"
+        },
+        {
+            "id": "R1901032",
+            "name": "Hưng Yên",
+            "nameLocal": "Hưng Yên",
+            "parentId": "R49915",
+            "displayName": "Hưng Yên"
+        },
+        {
+            "id": "R1887959",
+            "name": "Khánh Hòa",
+            "nameLocal": "Khánh Hòa",
+            "parentId": "R49915",
+            "displayName": "Khánh Hòa"
+        },
+        {
+            "id": "R1874471",
+            "name": "Kiên Giang",
+            "nameLocal": "Kiên Giang",
+            "parentId": "R49915",
+            "displayName": "Kiên Giang"
+        },
+        {
+            "id": "R1879515",
+            "name": "Kon Tum",
+            "nameLocal": "Kon Tum",
+            "parentId": "R49915",
+            "displayName": "Kon Tum"
+        },
+        {
+            "id": "R1903322",
+            "name": "Lai Châu",
+            "nameLocal": "Lai Châu",
+            "parentId": "R49915",
+            "displayName": "Lai Châu"
+        },
+        {
+            "id": "R5522596",
+            "name": "Lạng Sơn",
+            "nameLocal": "Lạng Sơn",
+            "parentId": "R49915",
+            "displayName": "Lạng Sơn"
+        },
+        {
+            "id": "R1903400",
+            "name": "Lào Cai",
+            "nameLocal": "Lào Cai",
+            "parentId": "R49915",
+            "displayName": "Lào Cai"
+        },
+        {
+            "id": "R1885367",
+            "name": "Lâm Đồng",
+            "nameLocal": "Lâm Đồng",
+            "parentId": "R49915",
+            "displayName": "Lâm Đồng"
+        },
+        {
+            "id": "R1877236",
+            "name": "Long An",
+            "nameLocal": "Long An",
+            "parentId": "R49915",
+            "displayName": "Long An"
+        },
+        {
+            "id": "R1901008",
+            "name": "Nam Định",
+            "nameLocal": "Nam Định",
+            "parentId": "R49915",
+            "displayName": "Nam Định"
+        },
+        {
+            "id": "R1898509",
+            "name": "Nghệ An",
+            "nameLocal": "Nghệ An",
+            "parentId": "R49915",
+            "displayName": "Nghệ An"
+        },
+        {
+            "id": "R1900963",
+            "name": "Ninh Bình",
+            "nameLocal": "Ninh Bình",
+            "parentId": "R49915",
+            "displayName": "Ninh Bình"
+        },
+        {
+            "id": "R1886159",
+            "name": "Ninh Thuận",
+            "nameLocal": "Ninh Thuận",
+            "parentId": "R49915",
+            "displayName": "Ninh Thuận"
+        },
+        {
+            "id": "R1902930",
+            "name": "Phú Thọ",
+            "nameLocal": "Phú Thọ",
+            "parentId": "R49915",
+            "displayName": "Phú Thọ"
+        },
+        {
+            "id": "R1889204",
+            "name": "Phú Yên",
+            "nameLocal": "Phú Yên",
+            "parentId": "R49915",
+            "displayName": "Phú Yên"
+        },
+        {
+            "id": "R1896050",
+            "name": "Quảng Bình",
+            "nameLocal": "Quảng Bình",
+            "parentId": "R49915",
+            "displayName": "Quảng Bình"
+        },
+        {
+            "id": "R1891352",
+            "name": "Quảng Nam",
+            "nameLocal": "Quảng Nam",
+            "parentId": "R49915",
+            "displayName": "Quảng Nam"
+        },
+        {
+            "id": "R1890793",
+            "name": "Quảng Ngãi",
+            "nameLocal": "Quảng Ngãi",
+            "parentId": "R49915",
+            "displayName": "Quảng Ngãi"
+        },
+        {
+            "id": "R1902947",
+            "name": "Quảng Ninh",
+            "nameLocal": "Quảng Ninh",
+            "parentId": "R49915",
+            "displayName": "Quảng Ninh"
+        },
+        {
+            "id": "R1895630",
+            "name": "Quảng Trị",
+            "nameLocal": "Quảng Trị",
+            "parentId": "R49915",
+            "displayName": "Quảng Trị"
+        },
+        {
+            "id": "R1873632",
+            "name": "Sóc Trăng",
+            "nameLocal": "Sóc Trăng",
+            "parentId": "R49915",
+            "displayName": "Sóc Trăng"
+        },
+        {
+            "id": "R1903291",
+            "name": "Sơn La",
+            "nameLocal": "Sơn La",
+            "parentId": "R49915",
+            "displayName": "Sơn La"
+        },
+        {
+            "id": "R1898961",
+            "name": "Tây Ninh",
+            "nameLocal": "Tây Ninh",
+            "parentId": "R49915",
+            "displayName": "Tây Ninh"
+        },
+        {
+            "id": "R1901019",
+            "name": "Thái Bình",
+            "nameLocal": "Thái Bình",
+            "parentId": "R49915",
+            "displayName": "Thái Bình"
+        },
+        {
+            "id": "R1902967",
+            "name": "Thái Nguyên",
+            "nameLocal": "Thái Nguyên",
+            "parentId": "R49915",
+            "displayName": "Thái Nguyên"
+        },
+        {
+            "id": "R1898590",
+            "name": "Thanh Hóa",
+            "nameLocal": "Thanh Hóa",
+            "parentId": "R49915",
+            "displayName": "Thanh Hóa"
+        },
+        {
+            "id": "R1891483",
+            "name": "Thừa Thiên Huế",
+            "nameLocal": "Thừa Thiên Huế",
+            "parentId": "R49915",
+            "displayName": "Thừa Thiên Huế"
+        },
+        {
+            "id": "R1876011",
+            "name": "Tiền Giang",
+            "nameLocal": "Tiền Giang",
+            "parentId": "R49915",
+            "displayName": "Tiền Giang"
+        },
+        {
+            "id": "R1873642",
+            "name": "Trà Vinh",
+            "nameLocal": "Trà Vinh",
+            "parentId": "R49915",
+            "displayName": "Trà Vinh"
+        },
+        {
+            "id": "R1903418",
+            "name": "Tuyên Quang",
+            "nameLocal": "Tuyên Quang",
+            "parentId": "R49915",
+            "displayName": "Tuyên Quang"
+        },
+        {
+            "id": "R1875887",
+            "name": "Vĩnh Long",
+            "nameLocal": "Vĩnh Long",
+            "parentId": "R49915",
+            "displayName": "Vĩnh Long"
+        },
+        {
+            "id": "R1902889",
+            "name": "Vĩnh Phúc",
+            "nameLocal": "Vĩnh Phúc",
+            "parentId": "R49915",
+            "displayName": "Vĩnh Phúc"
+        },
+        {
+            "id": "R1903199",
+            "name": "Yên Bái",
+            "nameLocal": "Yên Bái",
+            "parentId": "R49915",
+            "displayName": "Yên Bái"
+        }
+    ],
+    "districs":[
+        {
+            "id": "R7157268",
+            "name": "Huyện Bình Chánh",
+            "nameLocal": "Huyện Bình Chánh",
+            "countryId": "R1973756",
+            "displayName": "Huyện Bình Chánh"
+        },
+        {
+            "id": "R7157255",
+            "name": "Huyện Cần Giờ",
+            "nameLocal": "Huyện Cần Giờ",
+            "countryId": "R1973756",
+            "displayName": "Huyện Cần Giờ"
+        },
+        {
+            "id": "R7157220",
+            "name": "Huyện Củ Chi",
+            "nameLocal": "Huyện Củ Chi",
+            "countryId": "R1973756",
+            "displayName": "Huyện Củ Chi"
+        },
+        {
+            "id": "R7157219",
+            "name": "Huyện Hóc Môn",
+            "nameLocal": "Huyện Hóc Môn",
+            "countryId": "R1973756",
+            "displayName": "Huyện Hóc Môn"
+        },
+        {
+            "id": "R7157197",
+            "name": "Huyện Nhà Bè",
+            "nameLocal": "Huyện Nhà Bè",
+            "countryId": "R1973756",
+            "displayName": "Huyện Nhà Bè"
+        },
+        {
+            "id": "R2587287",
+            "name": "Quận 1",
+            "nameLocal": "Quận 1",
+            "countryId": "R1973756",
+            "displayName": "Quận 1"
+        },
+        {
+            "id": "R3799817",
+            "name": "Quận 2",
+            "nameLocal": "Quận 2",
+            "countryId": "R1973756",
+            "displayName": "Quận 2"
+        },
+        {
+            "id": "R3819816",
+            "name": "Quận 3",
+            "nameLocal": "Quận 3",
+            "countryId": "R1973756",
+            "displayName": "Quận 3"
+        },
+        {
+            "id": "R2778323",
+            "name": "Quận 4",
+            "nameLocal": "Quận 4",
+            "countryId": "R1973756",
+            "displayName": "Quận 4"
+        },
+        {
+            "id": "R3820432",
+            "name": "Quận 5",
+            "nameLocal": "Quận 5",
+            "countryId": "R1973756",
+            "displayName": "Quận 5"
+        },
+        {
+            "id": "R6228792",
+            "name": "Quận 6",
+            "nameLocal": "Quận 6",
+            "countryId": "R1973756",
+            "displayName": "Quận 6"
+        },
+        {
+            "id": "R2764875",
+            "name": "Quận 7",
+            "nameLocal": "Quận 7",
+            "countryId": "R1973756",
+            "displayName": "Quận 7"
+        },
+        {
+            "id": "R6888445",
+            "name": "Quận 8",
+            "nameLocal": "Quận 8",
+            "countryId": "R1973756",
+            "displayName": "Quận 8"
+        },
+        {
+            "id": "R7144246",
+            "name": "Quận 9",
+            "nameLocal": "Quận 9",
+            "countryId": "R1973756",
+            "displayName": "Quận 9"
+        },
+        {
+            "id": "R6228121",
+            "name": "Quận 10",
+            "nameLocal": "Quận 10",
+            "countryId": "R1973756",
+            "displayName": "Quận 10"
+        },
+        {
+            "id": "R6846181",
+            "name": "Quận 11",
+            "nameLocal": "Quận 11",
+            "countryId": "R1973756",
+            "displayName": "Quận 11"
+        },
+        {
+            "id": "R6923167",
+            "name": "Quận 12",
+            "nameLocal": "Quận 12",
+            "countryId": "R1973756",
+            "displayName": "Quận 12"
+        },
+        {
+            "id": "R6909710",
+            "name": "Quận Bình Tân",
+            "nameLocal": "Quận Bình Tân",
+            "countryId": "R1973756",
+            "displayName": "Quận Bình Tân"
+        },
+        {
+            "id": "R3797166",
+            "name": "Quận Bình Thạnh",
+            "nameLocal": "Quận Bình Thạnh",
+            "countryId": "R1973756",
+            "displayName": "Quận Bình Thạnh"
+        },
+        {
+            "id": "R6908316",
+            "name": "Quận Gò Vấp",
+            "nameLocal": "Quận Gò Vấp",
+            "countryId": "R1973756",
+            "displayName": "Quận Gò Vấp"
+        },
+        {
+            "id": "R3851694",
+            "name": "Quận Phú Nhuận",
+            "nameLocal": "Quận Phú Nhuận",
+            "countryId": "R1973756",
+            "displayName": "Quận Phú Nhuận"
+        },
+        {
+            "id": "R6846177",
+            "name": "Quận Tân Bình",
+            "nameLocal": "Quận Tân Bình",
+            "countryId": "R1973756",
+            "displayName": "Quận Tân Bình"
+        },
+        {
+            "id": "R6846128",
+            "name": "Quận Tân Phú",
+            "nameLocal": "Quận Tân Phú",
+            "countryId": "R1973756",
+            "displayName": "Quận Tân Phú"
+        },
+        {
+            "id": "R6941055",
+            "name": "Quận Thủ Đức",
+            "nameLocal": "Quận Thủ Đức",
+            "countryId": "R1973756",
+            "displayName": "Quận Thủ Đức"
+        },
+        {
+            "id": "RVN1",
+            "name": "Thành Phố Thủ Đức",
+            "nameLocal": "Thành Phố Thủ Đức",
+            "countryId": "R1973756",
+            "displayName": "Thành Phố Thủ Đức"
+        }, 
+        {
+            "id": "R7147162",
+            "name": "Huyện An Phú",
+            "nameLocal": "Huyện An Phú",
+            "countryId": "R1875748",
+            "displayName": "Huyện An Phú"
+        },
+        {
+            "id": "R7147133",
+            "name": "Huyện Châu Phú",
+            "nameLocal": "Huyện Châu Phú",
+            "countryId": "R1875748",
+            "displayName": "Huyện Châu Phú"
+        },
+        {
+            "id": "R7147122",
+            "name": "Huyện Châu Thành",
+            "nameLocal": "Huyện Châu Thành",
+            "countryId": "R1875748",
+            "displayName": "Huyện Châu Thành"
+        },
+        {
+            "id": "R7147129",
+            "name": "Huyện Chợ Mới",
+            "nameLocal": "Huyện Chợ Mới",
+            "countryId": "R1875748",
+            "displayName": "Huyện Chợ Mới"
+        },
+        {
+            "id": "R7147176",
+            "name": "Huyện Phú Tân",
+            "nameLocal": "Huyện Phú Tân",
+            "countryId": "R1875748",
+            "displayName": "Huyện Phú Tân"
+        },
+        {
+            "id": "R7147100",
+            "name": "Huyện Thoại Sơn",
+            "nameLocal": "Huyện Thoại Sơn",
+            "countryId": "R1875748",
+            "displayName": "Huyện Thoại Sơn"
+        },
+        {
+            "id": "R7146822",
+            "name": "Huyện Tịnh Biên",
+            "nameLocal": "Huyện Tịnh Biên",
+            "countryId": "R1875748",
+            "displayName": "Huyện Tịnh Biên"
+        },
+        {
+            "id": "R7146980",
+            "name": "Huyện Tri Tôn",
+            "nameLocal": "Huyện Tri Tôn",
+            "countryId": "R1875748",
+            "displayName": "Huyện Tri Tôn"
+        },
+        {
+            "id": "R7147138",
+            "name": "Thành Phố Châu Đốc",
+            "nameLocal": "Thành Phố Châu Đốc",
+            "countryId": "R1875748",
+            "displayName": "Thành Phố Châu Đốc"
+        },
+        {
+            "id": "R7147125",
+            "name": "Thành Phố Long Xuyên",
+            "nameLocal": "Thành Phố Long Xuyên",
+            "countryId": "R1875748",
+            "displayName": "Thành Phố Long Xuyên"
+        },
+        {
+            "id": "R7147170",
+            "name": "Thị Xã Tân Châu",
+            "nameLocal": "Thị Xã Tân Châu",
+            "countryId": "R1875748",
+            "displayName": "Thị Xã Tân Châu"
+        }
+        ,
+        {
+            "id": "R7141743",
+            "name": "Huyện Đông Hải",
+            "nameLocal": "Huyện Đông Hải",
+            "countryId": "R1873533",
+            "displayName": "Huyện Đông Hải"
+        },
+        {
+            "id": "R7141898",
+            "name": "Huyện Hòa Bình",
+            "nameLocal": "Huyện Hòa Bình",
+            "countryId": "R1873533",
+            "displayName": "Huyện Hòa Bình"
+        },
+        {
+            "id": "R7141686",
+            "name": "Huyện Hồng Dân",
+            "nameLocal": "Huyện Hồng Dân",
+            "countryId": "R1873533",
+            "displayName": "Huyện Hồng Dân"
+        },
+        {
+            "id": "R7141693",
+            "name": "Huyện Phước Long",
+            "nameLocal": "Huyện Phước Long",
+            "countryId": "R1873533",
+            "displayName": "Huyện Phước Long"
+        },
+        {
+            "id": "R7141905",
+            "name": "Huyện Vĩnh Lợi",
+            "nameLocal": "Huyện Vĩnh Lợi",
+            "countryId": "R1873533",
+            "displayName": "Huyện Vĩnh Lợi"
+        },
+        {
+            "id": "R7141890",
+            "name": "Thành Phố Bạc Liêu",
+            "nameLocal": "Thành Phố Bạc Liêu",
+            "countryId": "R1873533",
+            "displayName": "Thành Phố Bạc Liêu"
+        },
+        {
+            "id": "R7141735",
+            "name": "Thị Xã Giá Rai",
+            "nameLocal": "Thị Xã Giá Rai",
+            "countryId": "R1873533",
+            "displayName": "Thị Xã Giá Rai"
+        },
+        {
+            "id": "R7153137",
+            "name": "Huyện Châu Đức",
+            "nameLocal": "Huyện Châu Đức",
+            "countryId": "R1904296",
+            "displayName": "Huyện Châu Đức"
+        },
+        {
+            "id": "R3612628",
+            "name": "Huyện Côn Đảo",
+            "nameLocal": "Huyện Côn Đảo",
+            "countryId": "R1904296",
+            "displayName": "Huyện Côn Đảo"
+        },
+        {
+            "id": "R7153187",
+            "name": "Huyện Đất Đỏ",
+            "nameLocal": "Huyện Đất Đỏ",
+            "countryId": "R1904296",
+            "displayName": "Huyện Đất Đỏ"
+        },
+        {
+            "id": "R3610389",
+            "name": "Huyện Long Điền",
+            "nameLocal": "Huyện Long Điền",
+            "countryId": "R1904296",
+            "displayName": "Huyện Long Điền"
+        },
+        {
+            "id": "R7153212",
+            "name": "Huyện Xuyên Mộc",
+            "nameLocal": "Huyện Xuyên Mộc",
+            "countryId": "R1904296",
+            "displayName": "Huyện Xuyên Mộc"
+        },
+        {
+            "id": "R3987528",
+            "name": "Thành Phố Bà Rịa",
+            "nameLocal": "Thành Phố Bà Rịa",
+            "countryId": "R1904296",
+            "displayName": "Thành Phố Bà Rịa"
+        },
+        {
+            "id": "R3607889",
+            "name": "Thành Phố Vũng Tàu",
+            "nameLocal": "Thành Phố Vũng Tàu",
+            "countryId": "R1904296",
+            "displayName": "Thành Phố Vũng Tàu"
+        },
+        {
+            "id": "R80314294",
+            "name": "Thị Xã Phú Mỹ",
+            "nameLocal": "Thị Xã Phú Mỹ",
+            "countryId": "R1904296",
+            "displayName": "Thị Xã Phú Mỹ"
+        },
+        {
+            "id": "R6922834",
+            "name": "Huyện Hiệp Hoà",
+            "nameLocal": "Huyện Hiệp Hoà",
+            "countryId": "R1902941",
+            "displayName": "Huyện Hiệp Hoà"
+        },
+        {
+            "id": "R6923324",
+            "name": "Huyện Lạng Giang",
+            "nameLocal": "Huyện Lạng Giang",
+            "countryId": "R1902941",
+            "displayName": "Huyện Lạng Giang"
+        },
+        {
+            "id": "R6921174",
+            "name": "Huyện Lục Nam",
+            "nameLocal": "Huyện Lục Nam",
+            "countryId": "R1902941",
+            "displayName": "Huyện Lục Nam"
+        },
+        {
+            "id": "R6917071",
+            "name": "Huyện Lục Ngạn",
+            "nameLocal": "Huyện Lục Ngạn",
+            "countryId": "R1902941",
+            "displayName": "Huyện Lục Ngạn"
+        },
+        {
+            "id": "R6915724",
+            "name": "Huyện Sơn Động",
+            "nameLocal": "Huyện Sơn Động",
+            "countryId": "R1902941",
+            "displayName": "Huyện Sơn Động"
+        },
+        {
+            "id": "R6922835",
+            "name": "Huyện Tân Yên",
+            "nameLocal": "Huyện Tân Yên",
+            "countryId": "R1902941",
+            "displayName": "Huyện Tân Yên"
+        },
+        {
+            "id": "R7113961",
+            "name": "Huyện Việt Yên",
+            "nameLocal": "Huyện Việt Yên",
+            "countryId": "R1902941",
+            "displayName": "Huyện Việt Yên"
+        },
+        {
+            "id": "R7113962",
+            "name": "Huyện Yên Dũng",
+            "nameLocal": "Huyện Yên Dũng",
+            "countryId": "R1902941",
+            "displayName": "Huyện Yên Dũng"
+        },
+        {
+            "id": "R6922083",
+            "name": "Huyện Yên Thế",
+            "nameLocal": "Huyện Yên Thế",
+            "countryId": "R1902941",
+            "displayName": "Huyện Yên Thế"
+        },
+        {
+            "id": "R7113960",
+            "name": "Thành Phố Bắc Giang",
+            "nameLocal": "Thành Phố Bắc Giang",
+            "countryId": "R1902941",
+            "displayName": "Thành Phố Bắc Giang"
+        },
+        {
+            "id": "R7110786",
+            "name": "Huyện Ba Bể",
+            "nameLocal": "Huyện Ba Bể",
+            "countryId": "R1903471",
+            "displayName": "Huyện Ba Bể"
+        },
+        {
+            "id": "R7111136",
+            "name": "Huyện Bạch Thông",
+            "nameLocal": "Huyện Bạch Thông",
+            "countryId": "R1903471",
+            "displayName": "Huyện Bạch Thông"
+        },
+        {
+            "id": "R7107848",
+            "name": "Huyện Chợ Đồn",
+            "nameLocal": "Huyện Chợ Đồn",
+            "countryId": "R1903471",
+            "displayName": "Huyện Chợ Đồn"
+        },
+        {
+            "id": "R7111240",
+            "name": "Huyện Chợ Mới",
+            "nameLocal": "Huyện Chợ Mới",
+            "countryId": "R1903471",
+            "displayName": "Huyện Chợ Mới"
+        },
+        {
+            "id": "R7111363",
+            "name": "Huyện Na Rì",
+            "nameLocal": "Huyện Na Rì",
+            "countryId": "R1903471",
+            "displayName": "Huyện Na Rì"
+        },
+        {
+            "id": "R7111430",
+            "name": "Huyện Ngân Sơn",
+            "nameLocal": "Huyện Ngân Sơn",
+            "countryId": "R1903471",
+            "displayName": "Huyện Ngân Sơn"
+        },
+        {
+            "id": "R7109754",
+            "name": "Huyện Pác Nặm",
+            "nameLocal": "Huyện Pác Nặm",
+            "countryId": "R1903471",
+            "displayName": "Huyện Pác Nặm"
+        },
+        {
+            "id": "R7111239",
+            "name": "Thành Phố Bắc Kạn",
+            "nameLocal": "Thành Phố Bắc Kạn",
+            "countryId": "R1903471",
+            "displayName": "Thành Phố Bắc Kạn"
+        },
+        {
+            "id": "R7130737",
+            "name": "Huyện Gia Bình",
+            "nameLocal": "Huyện Gia Bình",
+            "countryId": "R1902690",
+            "displayName": "Huyện Gia Bình"
+        },
+        {
+            "id": "R7130632",
+            "name": "Huyện Lương Tài",
+            "nameLocal": "Huyện Lương Tài",
+            "countryId": "R1902690",
+            "displayName": "Huyện Lương Tài"
+        },
+        {
+            "id": "R7130779",
+            "name": "Huyện Quế Võ",
+            "nameLocal": "Huyện Quế Võ",
+            "countryId": "R1902690",
+            "displayName": "Huyện Quế Võ"
+        },
+        {
+            "id": "R7130633",
+            "name": "Huyện Thuận Thành",
+            "nameLocal": "Huyện Thuận Thành",
+            "countryId": "R1902690",
+            "displayName": "Huyện Thuận Thành"
+        },
+        {
+            "id": "R7130834",
+            "name": "Huyện Tiên Du",
+            "nameLocal": "Huyện Tiên Du",
+            "countryId": "R1902690",
+            "displayName": "Huyện Tiên Du"
+        },
+        {
+            "id": "R7130794",
+            "name": "Huyện Yên Phong",
+            "nameLocal": "Huyện Yên Phong",
+            "countryId": "R1902690",
+            "displayName": "Huyện Yên Phong"
+        },
+        {
+            "id": "R7130838",
+            "name": "Thành Phố Bắc Ninh",
+            "nameLocal": "Thành Phố Bắc Ninh",
+            "countryId": "R1902690",
+            "displayName": "Thành Phố Bắc Ninh"
+        },
+        {
+            "id": "R7130796",
+            "name": "Thị Xã Từ Sơn",
+            "nameLocal": "Thị Xã Từ Sơn",
+            "countryId": "R1902690",
+            "displayName": "Thị Xã Từ Sơn"
+        },
+        {
+            "id": "R7151970",
+            "name": "Huyện Ba Tri",
+            "nameLocal": "Huyện Ba Tri",
+            "countryId": "R1875968",
+            "displayName": "Huyện Ba Tri"
+        },
+        {
+            "id": "R7151957",
+            "name": "Huyện Bình Đại",
+            "nameLocal": "Huyện Bình Đại",
+            "countryId": "R1875968",
+            "displayName": "Huyện Bình Đại"
+        },
+        {
+            "id": "R7151700",
+            "name": "Huyện Châu Thành",
+            "nameLocal": "Huyện Châu Thành",
+            "countryId": "R1875968",
+            "displayName": "Huyện Châu Thành"
+        },
+        {
+            "id": "R7151736",
+            "name": "Huyện Chợ Lách",
+            "nameLocal": "Huyện Chợ Lách",
+            "countryId": "R1875968",
+            "displayName": "Huyện Chợ Lách"
+        },
+        {
+            "id": "R7151977",
+            "name": "Huyện Giồng Trôm",
+            "nameLocal": "Huyện Giồng Trôm",
+            "countryId": "R1875968",
+            "displayName": "Huyện Giồng Trôm"
+        },
+        {
+            "id": "R7151846",
+            "name": "Huyện Mỏ Cày Bắc",
+            "nameLocal": "Huyện Mỏ Cày Bắc",
+            "countryId": "R1875968",
+            "displayName": "Huyện Mỏ Cày Bắc"
+        },
+        {
+            "id": "R7151847",
+            "name": "Huyện Mỏ Cày Nam",
+            "nameLocal": "Huyện Mỏ Cày Nam",
+            "countryId": "R1875968",
+            "displayName": "Huyện Mỏ Cày Nam"
+        },
+        {
+            "id": "R7151965",
+            "name": "Huyện Thạnh Phú",
+            "nameLocal": "Huyện Thạnh Phú",
+            "countryId": "R1875968",
+            "displayName": "Huyện Thạnh Phú"
+        },
+        {
+            "id": "R7151982",
+            "name": "Thành Phố Bến Tre",
+            "nameLocal": "Thành Phố Bến Tre",
+            "countryId": "R1875968",
+            "displayName": "Thành Phố Bến Tre"
+        },
+        {
+            "id": "R7155108",
+            "name": "Huyện Bàu Bàng",
+            "nameLocal": "Huyện Bàu Bàng",
+            "countryId": "R1906037",
+            "displayName": "Huyện Bàu Bàng"
+        },
+        {
+            "id": "R7155122",
+            "name": "Huyện Bắc Tân Uyên",
+            "nameLocal": "Huyện Bắc Tân Uyên",
+            "countryId": "R1906037",
+            "displayName": "Huyện Bắc Tân Uyên"
+        },
+        {
+            "id": "R7154399",
+            "name": "Huyện Dầu Tiếng",
+            "nameLocal": "Huyện Dầu Tiếng",
+            "countryId": "R1906037",
+            "displayName": "Huyện Dầu Tiếng"
+        },
+        {
+            "id": "R7154470",
+            "name": "Huyện Phú Giáo",
+            "nameLocal": "Huyện Phú Giáo",
+            "countryId": "R1906037",
+            "displayName": "Huyện Phú Giáo"
+        },
+        {
+            "id": "R7154449",
+            "name": "Thành Phố Thủ Dầu Một",
+            "nameLocal": "Thành Phố Thủ Dầu Một",
+            "countryId": "R1906037",
+            "displayName": "Thành Phố Thủ Dầu Một"
+        },
+        {
+            "id": "R7154447",
+            "name": "Thị Xã Bến Cát",
+            "nameLocal": "Thị Xã Bến Cát",
+            "countryId": "R1906037",
+            "displayName": "Thị Xã Bến Cát"
+        },
+        {
+            "id": "R3871720",
+            "name": "Thị Xã Dĩ An",
+            "nameLocal": "Thị Xã Dĩ An",
+            "countryId": "R1906037",
+            "displayName": "Thị Xã Dĩ An"
+        },
+        {
+            "id": "R7154463",
+            "name": "Thị Xã Tân Uyên",
+            "nameLocal": "Thị Xã Tân Uyên",
+            "countryId": "R1906037",
+            "displayName": "Thị Xã Tân Uyên"
+        },
+        {
+            "id": "R7154352",
+            "name": "Thị Xã Thuận An",
+            "nameLocal": "Thị Xã Thuận An",
+            "countryId": "R1906037",
+            "displayName": "Thị Xã Thuận An"
+        },
+        {
+            "id": "R1973756",
+            "name": "Hồ Chí Minh",
+            "nameLocal": "Hồ Chí Minh",
+            "countryId": "R49915",
+            "displayName": "Hồ Chí Minh"
+        },
+        {
+            "id": "R1875748",
+            "name": "An Giang",
+            "nameLocal": "An Giang",
+            "countryId": "R49915",
+            "displayName": "An Giang"
+        },
+        {
+            "id": "R1873533",
+            "name": "Bạc Liêu",
+            "nameLocal": "Bạc Liêu",
+            "countryId": "R49915",
+            "displayName": "Bạc Liêu"
+        },
+        {
+            "id": "R1904296",
+            "name": "Bà Rịa Vũng Tàu",
+            "nameLocal": "Bà Rịa Vũng Tàu",
+            "countryId": "R49915",
+            "displayName": "Bà Rịa Vũng Tàu"
+        },
+        {
+            "id": "R1902941",
+            "name": "Bắc Giang",
+            "nameLocal": "Bắc Giang",
+            "countryId": "R49915",
+            "displayName": "Bắc Giang"
+        },
+        {
+            "id": "R1903471",
+            "name": "Bắc Kạn",
+            "nameLocal": "Bắc Kạn",
+            "countryId": "R49915",
+            "displayName": "Bắc Kạn"
+        },
+        {
+            "id": "R1902690",
+            "name": "Bắc Ninh",
+            "nameLocal": "Bắc Ninh",
+            "countryId": "R49915",
+            "displayName": "Bắc Ninh"
+        },
+        {
+            "id": "R1875968",
+            "name": "Bến Tre",
+            "nameLocal": "Bến Tre",
+            "countryId": "R49915",
+            "displayName": "Bến Tre"
+        },
+        {
+            "id": "R1906037",
+            "name": "Bình Dương",
+            "nameLocal": "Bình Dương",
+            "countryId": "R49915",
+            "displayName": "Bình Dương"
+        },
+        {
+            "id": "R1889794",
+            "name": "Bình Định",
+            "nameLocal": "Bình Định",
+            "countryId": "R49915",
+            "displayName": "Bình Định"
+        },
+        {
+            "id": "R1898841",
+            "name": "Bình Phước",
+            "nameLocal": "Bình Phước",
+            "countryId": "R49915",
+            "displayName": "Bình Phước"
+        },
+        {
+            "id": "R1904231",
+            "name": "Bình Thuận",
+            "nameLocal": "Bình Thuận",
+            "countryId": "R49915",
+            "displayName": "Bình Thuận"
+        },
+        {
+            "id": "R1873490",
+            "name": "Cà Mau",
+            "nameLocal": "Cà Mau",
+            "countryId": "R49915",
+            "displayName": "Cà Mau"
+        },
+        {
+            "id": "R1844412",
+            "name": "Cao Bằng",
+            "nameLocal": "Cao Bằng",
+            "countryId": "R49915",
+            "displayName": "Cao Bằng"
+        },
+        {
+            "id": "R1874283",
+            "name": "Cần Thơ",
+            "nameLocal": "Cần Thơ",
+            "countryId": "R49915",
+            "displayName": "Cần Thơ"
+        },
+        {
+            "id": "R1891418",
+            "name": "Đà Nẵng",
+            "nameLocal": "Đà Nẵng",
+            "countryId": "R49915",
+            "displayName": "Đà Nẵng"
+        },
+        {
+            "id": "R1884034",
+            "name": "Đăk Lăk",
+            "nameLocal": "Đăk Lăk",
+            "countryId": "R49915",
+            "displayName": "Đăk Lăk"
+        },
+        {
+            "id": "R1884042",
+            "name": "Đăk Nông",
+            "nameLocal": "Đăk Nông",
+            "countryId": "R49915",
+            "displayName": "Đăk Nông"
+        },
+        {
+            "id": "R1903340",
+            "name": "Điện Biên",
+            "nameLocal": "Điện Biên",
+            "countryId": "R49915",
+            "displayName": "Điện Biên"
+        },
+        {
+            "id": "R1904421",
+            "name": "Đồng Nai",
+            "nameLocal": "Đồng Nai",
+            "countryId": "R49915",
+            "displayName": "Đồng Nai"
+        },
+        {
+            "id": "R1875866",
+            "name": "Đồng Tháp",
+            "nameLocal": "Đồng Tháp",
+            "countryId": "R49915",
+            "displayName": "Đồng Tháp"
+        },
+        {
+            "id": "R1884018",
+            "name": "Gia Lai",
+            "nameLocal": "Gia Lai",
+            "countryId": "R49915",
+            "displayName": "Gia Lai"
+        },
+        {
+            "id": "R1903478",
+            "name": "Hà Giang",
+            "nameLocal": "Hà Giang",
+            "countryId": "R49915",
+            "displayName": "Hà Giang"
+        },
+        {
+            "id": "R1902686",
+            "name": "Hải Dương",
+            "nameLocal": "Hải Dương",
+            "countryId": "R49915",
+            "displayName": "Hải Dương"
+        },
+        {
+            "id": "R1902682",
+            "name": "Hải Phòng",
+            "nameLocal": "Hải Phòng",
+            "countryId": "R49915",
+            "displayName": "Hải Phòng"
+        },
+        {
+            "id": "R1901010",
+            "name": "Hà Nam",
+            "nameLocal": "Hà Nam",
+            "countryId": "R49915",
+            "displayName": "Hà Nam"
+        },
+        {
+            "id": "R1903516",
+            "name": "Hà Nội",
+            "nameLocal": "Hà Nội",
+            "countryId": "R49915",
+            "displayName": "Hà Nội"
+        },
+        {
+            "id": "R1898458",
+            "name": "Hà Tĩnh",
+            "nameLocal": "Hà Tĩnh",
+            "countryId": "R49915",
+            "displayName": "Hà Tĩnh"
+        },
+        {
+            "id": "R1874249",
+            "name": "Hậu Giang",
+            "nameLocal": "Hậu Giang",
+            "countryId": "R49915",
+            "displayName": "Hậu Giang"
+        },
+        {
+            "id": "R1902973",
+            "name": "Hòa Bình",
+            "nameLocal": "Hòa Bình",
+            "countryId": "R49915",
+            "displayName": "Hòa Bình"
+        },
+        {
+            "id": "R1901032",
+            "name": "Hưng Yên",
+            "nameLocal": "Hưng Yên",
+            "countryId": "R49915",
+            "displayName": "Hưng Yên"
+        },
+        {
+            "id": "R1887959",
+            "name": "Khánh Hòa",
+            "nameLocal": "Khánh Hòa",
+            "countryId": "R49915",
+            "displayName": "Khánh Hòa"
+        },
+        {
+            "id": "R1874471",
+            "name": "Kiên Giang",
+            "nameLocal": "Kiên Giang",
+            "countryId": "R49915",
+            "displayName": "Kiên Giang"
+        },
+        {
+            "id": "R1879515",
+            "name": "Kon Tum",
+            "nameLocal": "Kon Tum",
+            "countryId": "R49915",
+            "displayName": "Kon Tum"
+        },
+        {
+            "id": "R1903322",
+            "name": "Lai Châu",
+            "nameLocal": "Lai Châu",
+            "countryId": "R49915",
+            "displayName": "Lai Châu"
+        },
+        {
+            "id": "R5522596",
+            "name": "Lạng Sơn",
+            "nameLocal": "Lạng Sơn",
+            "countryId": "R49915",
+            "displayName": "Lạng Sơn"
+        },
+        {
+            "id": "R1903400",
+            "name": "Lào Cai",
+            "nameLocal": "Lào Cai",
+            "countryId": "R49915",
+            "displayName": "Lào Cai"
+        },
+        {
+            "id": "R1885367",
+            "name": "Lâm Đồng",
+            "nameLocal": "Lâm Đồng",
+            "countryId": "R49915",
+            "displayName": "Lâm Đồng"
+        },
+        {
+            "id": "R1877236",
+            "name": "Long An",
+            "nameLocal": "Long An",
+            "countryId": "R49915",
+            "displayName": "Long An"
+        },
+        {
+            "id": "R1901008",
+            "name": "Nam Định",
+            "nameLocal": "Nam Định",
+            "countryId": "R49915",
+            "displayName": "Nam Định"
+        },
+        {
+            "id": "R1898509",
+            "name": "Nghệ An",
+            "nameLocal": "Nghệ An",
+            "countryId": "R49915",
+            "displayName": "Nghệ An"
+        },
+        {
+            "id": "R1900963",
+            "name": "Ninh Bình",
+            "nameLocal": "Ninh Bình",
+            "countryId": "R49915",
+            "displayName": "Ninh Bình"
+        },
+        {
+            "id": "R1886159",
+            "name": "Ninh Thuận",
+            "nameLocal": "Ninh Thuận",
+            "countryId": "R49915",
+            "displayName": "Ninh Thuận"
+        },
+        {
+            "id": "R1902930",
+            "name": "Phú Thọ",
+            "nameLocal": "Phú Thọ",
+            "countryId": "R49915",
+            "displayName": "Phú Thọ"
+        },
+        {
+            "id": "R1889204",
+            "name": "Phú Yên",
+            "nameLocal": "Phú Yên",
+            "countryId": "R49915",
+            "displayName": "Phú Yên"
+        },
+        {
+            "id": "R1896050",
+            "name": "Quảng Bình",
+            "nameLocal": "Quảng Bình",
+            "countryId": "R49915",
+            "displayName": "Quảng Bình"
+        },
+        {
+            "id": "R1891352",
+            "name": "Quảng Nam",
+            "nameLocal": "Quảng Nam",
+            "countryId": "R49915",
+            "displayName": "Quảng Nam"
+        },
+        {
+            "id": "R1890793",
+            "name": "Quảng Ngãi",
+            "nameLocal": "Quảng Ngãi",
+            "countryId": "R49915",
+            "displayName": "Quảng Ngãi"
+        },
+        {
+            "id": "R1902947",
+            "name": "Quảng Ninh",
+            "nameLocal": "Quảng Ninh",
+            "countryId": "R49915",
+            "displayName": "Quảng Ninh"
+        },
+        {
+            "id": "R1895630",
+            "name": "Quảng Trị",
+            "nameLocal": "Quảng Trị",
+            "countryId": "R49915",
+            "displayName": "Quảng Trị"
+        },
+        {
+            "id": "R1873632",
+            "name": "Sóc Trăng",
+            "nameLocal": "Sóc Trăng",
+            "countryId": "R49915",
+            "displayName": "Sóc Trăng"
+        },
+        {
+            "id": "R1903291",
+            "name": "Sơn La",
+            "nameLocal": "Sơn La",
+            "countryId": "R49915",
+            "displayName": "Sơn La"
+        },
+        {
+            "id": "R1898961",
+            "name": "Tây Ninh",
+            "nameLocal": "Tây Ninh",
+            "countryId": "R49915",
+            "displayName": "Tây Ninh"
+        },
+        {
+            "id": "R1901019",
+            "name": "Thái Bình",
+            "nameLocal": "Thái Bình",
+            "countryId": "R49915",
+            "displayName": "Thái Bình"
+        },
+        {
+            "id": "R1902967",
+            "name": "Thái Nguyên",
+            "nameLocal": "Thái Nguyên",
+            "countryId": "R49915",
+            "displayName": "Thái Nguyên"
+        },
+        {
+            "id": "R1898590",
+            "name": "Thanh Hóa",
+            "nameLocal": "Thanh Hóa",
+            "countryId": "R49915",
+            "displayName": "Thanh Hóa"
+        },
+        {
+            "id": "R1891483",
+            "name": "Thừa Thiên Huế",
+            "nameLocal": "Thừa Thiên Huế",
+            "countryId": "R49915",
+            "displayName": "Thừa Thiên Huế"
+        },
+        {
+            "id": "R1876011",
+            "name": "Tiền Giang",
+            "nameLocal": "Tiền Giang",
+            "countryId": "R49915",
+            "displayName": "Tiền Giang"
+        },
+        {
+            "id": "R1873642",
+            "name": "Trà Vinh",
+            "nameLocal": "Trà Vinh",
+            "countryId": "R49915",
+            "displayName": "Trà Vinh"
+        },
+        {
+            "id": "R1903418",
+            "name": "Tuyên Quang",
+            "nameLocal": "Tuyên Quang",
+            "countryId": "R49915",
+            "displayName": "Tuyên Quang"
+        },
+        {
+            "id": "R1875887",
+            "name": "Vĩnh Long",
+            "nameLocal": "Vĩnh Long",
+            "countryId": "R49915",
+            "displayName": "Vĩnh Long"
+        },
+        {
+            "id": "R1902889",
+            "name": "Vĩnh Phúc",
+            "nameLocal": "Vĩnh Phúc",
+            "countryId": "R49915",
+            "displayName": "Vĩnh Phúc"
+        },
+        {
+            "id": "R1903199",
+            "name": "Yên Bái",
+            "nameLocal": "Yên Bái",
+            "countryId": "R49915",
+            "displayName": "Yên Bái"
+        },
+        {
+            "id": "R7089103",
+            "name": "Huyện Bù Đăng",
+            "nameLocal": "Huyện Bù Đăng",
+            "countryId": "R1898841",
+            "displayName": "Huyện Bù Đăng"
+        },
+        {
+            "id": "R7090617",
+            "name": "Huyện Bù Đốp",
+            "nameLocal": "Huyện Bù Đốp",
+            "countryId": "R1898841",
+            "displayName": "Huyện Bù Đốp"
+        },
+        {
+            "id": "R7091455",
+            "name": "Huyện Bù Gia Mập",
+            "nameLocal": "Huyện Bù Gia Mập",
+            "countryId": "R1898841",
+            "displayName": "Huyện Bù Gia Mập"
+        },
+        {
+            "id": "R7091141",
+            "name": "Huyện Chơn Thành",
+            "nameLocal": "Huyện Chơn Thành",
+            "countryId": "R1898841",
+            "displayName": "Huyện Chơn Thành"
+        },
+        {
+            "id": "R7091240",
+            "name": "Huyện Đồng Phú",
+            "nameLocal": "Huyện Đồng Phú",
+            "countryId": "R1898841",
+            "displayName": "Huyện Đồng Phú"
+        },
+        {
+            "id": "R7091350",
+            "name": "Huyện Hớn Quản",
+            "nameLocal": "Huyện Hớn Quản",
+            "countryId": "R1898841",
+            "displayName": "Huyện Hớn Quản"
+        },
+        {
+            "id": "R7090786",
+            "name": "Huyện Lộc Ninh",
+            "nameLocal": "Huyện Lộc Ninh",
+            "countryId": "R1898841",
+            "displayName": "Huyện Lộc Ninh"
+        },
+        {
+            "id": "R7091456",
+            "name": "Huyện Phú Riềng",
+            "nameLocal": "Huyện Phú Riềng",
+            "countryId": "R1898841",
+            "displayName": "Huyện Phú Riềng"
+        },
+        {
+            "id": "R7091142",
+            "name": "Thành Phố Đồng Xoài",
+            "nameLocal": "Thành Phố Đồng Xoài",
+            "countryId": "R1898841",
+            "displayName": "Thành Phố Đồng Xoài"
+        },
+        {
+            "id": "R7090930",
+            "name": "Thị Xã Bình Long",
+            "nameLocal": "Thị Xã Bình Long",
+            "countryId": "R1898841",
+            "displayName": "Thị Xã Bình Long"
+        },
+        {
+            "id": "R7090366",
+            "name": "Thị Xã Phước Long",
+            "nameLocal": "Thị Xã Phước Long",
+            "countryId": "R1898841",
+            "displayName": "Thị Xã Phước Long"
+        },
+        {
+            "id": "R7156182",
+            "name": "Huyện Bắc Bình",
+            "nameLocal": "Huyện Bắc Bình",
+            "countryId": "R1904231",
+            "displayName": "Huyện Bắc Bình"
+        },
+        {
+            "id": "R80000018",
+            "name": "Huyện Đảo Phú Quý",
+            "nameLocal": "Huyện Đảo Phú Quý",
+            "countryId": "R1904231",
+            "displayName": "Huyện Đảo Phú Quý"
+        },
+        {
+            "id": "R7156235",
+            "name": "Huyện Đức Linh",
+            "nameLocal": "Huyện Đức Linh",
+            "countryId": "R1904231",
+            "displayName": "Huyện Đức Linh"
+        },
+        {
+            "id": "R7156246",
+            "name": "Huyện Hàm Tân",
+            "nameLocal": "Huyện Hàm Tân",
+            "countryId": "R1904231",
+            "displayName": "Huyện Hàm Tân"
+        },
+        {
+            "id": "R7156215",
+            "name": "Huyện Hàm Thuận Bắc",
+            "nameLocal": "Huyện Hàm Thuận Bắc",
+            "countryId": "R1904231",
+            "displayName": "Huyện Hàm Thuận Bắc"
+        },
+        {
+            "id": "R7156286",
+            "name": "Huyện Hàm Thuận Nam",
+            "nameLocal": "Huyện Hàm Thuận Nam",
+            "countryId": "R1904231",
+            "displayName": "Huyện Hàm Thuận Nam"
+        },
+        {
+            "id": "R7156247",
+            "name": "Huyện Tánh Linh",
+            "nameLocal": "Huyện Tánh Linh",
+            "countryId": "R1904231",
+            "displayName": "Huyện Tánh Linh"
+        },
+        {
+            "id": "R7156157",
+            "name": "Huyện Tuy Phong",
+            "nameLocal": "Huyện Tuy Phong",
+            "countryId": "R1904231",
+            "displayName": "Huyện Tuy Phong"
+        },
+        {
+            "id": "R7156269",
+            "name": "Thành Phố Phan Thiết",
+            "nameLocal": "Thành Phố Phan Thiết",
+            "countryId": "R1904231",
+            "displayName": "Thành Phố Phan Thiết"
+        },
+        {
+            "id": "R7156281",
+            "name": "Thị Xã La Gi",
+            "nameLocal": "Thị Xã La Gi",
+            "countryId": "R1904231",
+            "displayName": "Thị Xã La Gi"
+        },
+        {
+            "id": "R7139671",
+            "name": "Huyện Cái Nước",
+            "nameLocal": "Huyện Cái Nước",
+            "countryId": "R1873490",
+            "displayName": "Huyện Cái Nước"
+        },
+        {
+            "id": "R7139309",
+            "name": "Huyện Đầm Dơi",
+            "nameLocal": "Huyện Đầm Dơi",
+            "countryId": "R1873490",
+            "displayName": "Huyện Đầm Dơi"
+        },
+        {
+            "id": "R7139451",
+            "name": "Huyện Năm Căn",
+            "nameLocal": "Huyện Năm Căn",
+            "countryId": "R1873490",
+            "displayName": "Huyện Năm Căn"
+        },
+        {
+            "id": "R7139204",
+            "name": "Huyện Ngọc Hiển",
+            "nameLocal": "Huyện Ngọc Hiển",
+            "countryId": "R1873490",
+            "displayName": "Huyện Ngọc Hiển"
+        },
+        {
+            "id": "R7139515",
+            "name": "Huyện Phú Tân",
+            "nameLocal": "Huyện Phú Tân",
+            "countryId": "R1873490",
+            "displayName": "Huyện Phú Tân"
+        },
+        {
+            "id": "R7139652",
+            "name": "Huyện Thới Bình",
+            "nameLocal": "Huyện Thới Bình",
+            "countryId": "R1873490",
+            "displayName": "Huyện Thới Bình"
+        },
+        {
+            "id": "R7139624",
+            "name": "Huyện Trần Văn Thời",
+            "nameLocal": "Huyện Trần Văn Thời",
+            "countryId": "R1873490",
+            "displayName": "Huyện Trần Văn Thời"
+        },
+        {
+            "id": "R7139641",
+            "name": "Huyện U Minh",
+            "nameLocal": "Huyện U Minh",
+            "countryId": "R1873490",
+            "displayName": "Huyện U Minh"
+        },
+        {
+            "id": "R7139669",
+            "name": "Thành Phố Cà Mau",
+            "nameLocal": "Thành Phố Cà Mau",
+            "countryId": "R1873490",
+            "displayName": "Thành Phố Cà Mau"
+        },
+        {
+            "id": "R7100559",
+            "name": "Huyện Bảo Lạc",
+            "nameLocal": "Huyện Bảo Lạc",
+            "countryId": "R1844412",
+            "displayName": "Huyện Bảo Lạc"
+        },
+        {
+            "id": "R7100187",
+            "name": "Huyện Bảo Lâm",
+            "nameLocal": "Huyện Bảo Lâm",
+            "countryId": "R1844412",
+            "displayName": "Huyện Bảo Lâm"
+        },
+        {
+            "id": "R7103193",
+            "name": "Huyện Hạ Lang",
+            "nameLocal": "Huyện Hạ Lang",
+            "countryId": "R1844412",
+            "displayName": "Huyện Hạ Lang"
+        },
+        {
+            "id": "R7102525",
+            "name": "Huyện Hà Quảng",
+            "nameLocal": "Huyện Hà Quảng",
+            "countryId": "R1844412",
+            "displayName": "Huyện Hà Quảng"
+        },
+        {
+            "id": "R7102773",
+            "name": "Huyện Hòa An",
+            "nameLocal": "Huyện Hòa An",
+            "countryId": "R1844412",
+            "displayName": "Huyện Hòa An"
+        },
+        {
+            "id": "R7100705",
+            "name": "Huyện Nguyên Bình",
+            "nameLocal": "Huyện Nguyên Bình",
+            "countryId": "R1844412",
+            "displayName": "Huyện Nguyên Bình"
+        },
+        {
+            "id": "R7104050",
+            "name": "Huyện Phục Hòa",
+            "nameLocal": "Huyện Phục Hòa",
+            "countryId": "R1844412",
+            "displayName": "Huyện Phục Hòa"
+        },
+        {
+            "id": "R7103106",
+            "name": "Huyện Quảng Uyên",
+            "nameLocal": "Huyện Quảng Uyên",
+            "countryId": "R1844412",
+            "displayName": "Huyện Quảng Uyên"
+        },
+        {
+            "id": "R7104282",
+            "name": "Huyện Thạch An",
+            "nameLocal": "Huyện Thạch An",
+            "countryId": "R1844412",
+            "displayName": "Huyện Thạch An"
+        },
+        {
+            "id": "R7102505",
+            "name": "Huyện Thông Nông",
+            "nameLocal": "Huyện Thông Nông",
+            "countryId": "R1844412",
+            "displayName": "Huyện Thông Nông"
+        },
+        {
+            "id": "R7102788",
+            "name": "Huyện Trà Lĩnh",
+            "nameLocal": "Huyện Trà Lĩnh",
+            "countryId": "R1844412",
+            "displayName": "Huyện Trà Lĩnh"
+        },
+        {
+            "id": "R7102797",
+            "name": "Huyện Trùng Khánh",
+            "nameLocal": "Huyện Trùng Khánh",
+            "countryId": "R1844412",
+            "displayName": "Huyện Trùng Khánh"
+        },
+        {
+            "id": "R7100875",
+            "name": "Thành Phố Cao Bằng",
+            "nameLocal": "Thành Phố Cao Bằng",
+            "countryId": "R1844412",
+            "displayName": "Thành Phố Cao Bằng"
+        },
+        {
+            "id": "R7148130",
+            "name": "Huyện Cờ Đỏ",
+            "nameLocal": "Huyện Cờ Đỏ",
+            "countryId": "R1874283",
+            "displayName": "Huyện Cờ Đỏ"
+        },
+        {
+            "id": "R7147998",
+            "name": "Huyện Phong Điền",
+            "nameLocal": "Huyện Phong Điền",
+            "countryId": "R1874283",
+            "displayName": "Huyện Phong Điền"
+        },
+        {
+            "id": "R7148166",
+            "name": "Huyện Thới Lai",
+            "nameLocal": "Huyện Thới Lai",
+            "countryId": "R1874283",
+            "displayName": "Huyện Thới Lai"
+        },
+        {
+            "id": "R7148224",
+            "name": "Huyện Vĩnh Thạnh",
+            "nameLocal": "Huyện Vĩnh Thạnh",
+            "countryId": "R1874283",
+            "displayName": "Huyện Vĩnh Thạnh"
+        },
+        {
+            "id": "R7147988",
+            "name": "Quận Bình Thủy",
+            "nameLocal": "Quận Bình Thủy",
+            "countryId": "R1874283",
+            "displayName": "Quận Bình Thủy"
+        },
+        {
+            "id": "R7147986",
+            "name": "Quận Cái Răng",
+            "nameLocal": "Quận Cái Răng",
+            "countryId": "R1874283",
+            "displayName": "Quận Cái Răng"
+        },
+        {
+            "id": "R7147987",
+            "name": "Quận Ninh Kiều",
+            "nameLocal": "Quận Ninh Kiều",
+            "countryId": "R1874283",
+            "displayName": "Quận Ninh Kiều"
+        },
+        {
+            "id": "R7148232",
+            "name": "Quận Ô Môn",
+            "nameLocal": "Quận Ô Môn",
+            "countryId": "R1874283",
+            "displayName": "Quận Ô Môn"
+        },
+        {
+            "id": "R7148230",
+            "name": "Quận Thốt Nốt",
+            "nameLocal": "Quận Thốt Nốt",
+            "countryId": "R1874283",
+            "displayName": "Quận Thốt Nốt"
+        },
+        {
+            "id": "R80000025",
+            "name": "Huyện Hoàng Sa",
+            "nameLocal": "Huyện Hoàng Sa",
+            "countryId": "R1891418",
+            "displayName": "Huyện Hoàng Sa"
+        },
+        {
+            "id": "R7053087",
+            "name": "Huyện Hòa Vang",
+            "nameLocal": "Huyện Hòa Vang",
+            "countryId": "R1891418",
+            "displayName": "Huyện Hòa Vang"
+        },
+        {
+            "id": "R7057631",
+            "name": "Quận Cẩm Lệ",
+            "nameLocal": "Quận Cẩm Lệ",
+            "countryId": "R1891418",
+            "displayName": "Quận Cẩm Lệ"
+        },
+        {
+            "id": "R7057629",
+            "name": "Quận Hải Châu",
+            "nameLocal": "Quận Hải Châu",
+            "countryId": "R1891418",
+            "displayName": "Quận Hải Châu"
+        },
+        {
+            "id": "R7055161",
+            "name": "Quận Liên Chiểu",
+            "nameLocal": "Quận Liên Chiểu",
+            "countryId": "R1891418",
+            "displayName": "Quận Liên Chiểu"
+        },
+        {
+            "id": "R7057290",
+            "name": "Quận Ngũ Hành Sơn",
+            "nameLocal": "Quận Ngũ Hành Sơn",
+            "countryId": "R1891418",
+            "displayName": "Quận Ngũ Hành Sơn"
+        },
+        {
+            "id": "R7056936",
+            "name": "Quận Sơn Trà",
+            "nameLocal": "Quận Sơn Trà",
+            "countryId": "R1891418",
+            "displayName": "Quận Sơn Trà"
+        },
+        {
+            "id": "R7057031",
+            "name": "Quận Thanh Khê",
+            "nameLocal": "Quận Thanh Khê",
+            "countryId": "R1891418",
+            "displayName": "Quận Thanh Khê"
+        },
+        {
+            "id": "R7075229",
+            "name": "Huyện Buôn Ðôn",
+            "nameLocal": "Huyện Buôn Ðôn",
+            "countryId": "R1884034",
+            "displayName": "Huyện Buôn Ðôn"
+        },
+        {
+            "id": "R7076187",
+            "name": "Huyện Cư Kuin",
+            "nameLocal": "Huyện Cư Kuin",
+            "countryId": "R1884034",
+            "displayName": "Huyện Cư Kuin"
+        },
+        {
+            "id": "R7076188",
+            "name": "Huyện Cư M'gar",
+            "nameLocal": "Huyện Cư M'gar",
+            "countryId": "R1884034",
+            "displayName": "Huyện Cư M'gar"
+        },
+        {
+            "id": "R7076008",
+            "name": "Huyện Ea H'leo",
+            "nameLocal": "Huyện Ea H'leo",
+            "countryId": "R1884034",
+            "displayName": "Huyện Ea H'leo"
+        },
+        {
+            "id": "R7075120",
+            "name": "Huyện Ea Kar",
+            "nameLocal": "Huyện Ea Kar",
+            "countryId": "R1884034",
+            "displayName": "Huyện Ea Kar"
+        },
+        {
+            "id": "R7075935",
+            "name": "Huyện Ea Súp",
+            "nameLocal": "Huyện Ea Súp",
+            "countryId": "R1884034",
+            "displayName": "Huyện Ea Súp"
+        },
+        {
+            "id": "R7075042",
+            "name": "Huyện Krông Ana",
+            "nameLocal": "Huyện Krông Ana",
+            "countryId": "R1884034",
+            "displayName": "Huyện Krông Ana"
+        },
+        {
+            "id": "R7074921",
+            "name": "Huyện Krông Bông",
+            "nameLocal": "Huyện Krông Bông",
+            "countryId": "R1884034",
+            "displayName": "Huyện Krông Bông"
+        },
+        {
+            "id": "R7076038",
+            "name": "Huyện Krông Buk",
+            "nameLocal": "Huyện Krông Buk",
+            "countryId": "R1884034",
+            "displayName": "Huyện Krông Buk"
+        },
+        {
+            "id": "R7076009",
+            "name": "Huyện Krông Năng",
+            "nameLocal": "Huyện Krông Năng",
+            "countryId": "R1884034",
+            "displayName": "Huyện Krông Năng"
+        },
+        {
+            "id": "R80000010",
+            "name": "Huyện Krông Pắc",
+            "nameLocal": "Huyện Krông Pắc",
+            "countryId": "R1884034",
+            "displayName": "Huyện Krông Pắc"
+        },
+        {
+            "id": "R7074659",
+            "name": "Huyện Lắk",
+            "nameLocal": "Huyện Lắk",
+            "countryId": "R1884034",
+            "displayName": "Huyện Lắk"
+        },
+        {
+            "id": "R7075067",
+            "name": "Huyện M'Đrắk",
+            "nameLocal": "Huyện M'Đrắk",
+            "countryId": "R1884034",
+            "displayName": "Huyện M'Đrắk"
+        },
+        {
+            "id": "R3273657",
+            "name": "Thành Phố Buôn Ma Thuột",
+            "nameLocal": "Thành Phố Buôn Ma Thuột",
+            "countryId": "R1884034",
+            "displayName": "Thành Phố Buôn Ma Thuột"
+        },
+        {
+            "id": "R7076186",
+            "name": "Thị Xã Buôn Hồ",
+            "nameLocal": "Thị Xã Buôn Hồ",
+            "countryId": "R1884034",
+            "displayName": "Thị Xã Buôn Hồ"
+        },
+        {
+            "id": "R7083711",
+            "name": "Huyện Cư Jút",
+            "nameLocal": "Huyện Cư Jút",
+            "countryId": "R1884042",
+            "displayName": "Huyện Cư Jút"
+        },
+        {
+            "id": "R7084896",
+            "name": "Huyện Đắk Glong",
+            "nameLocal": "Huyện Đắk Glong",
+            "countryId": "R1884042",
+            "displayName": "Huyện Đắk Glong"
+        },
+        {
+            "id": "R7083743",
+            "name": "Huyện Đắk Mil",
+            "nameLocal": "Huyện Đắk Mil",
+            "countryId": "R1884042",
+            "displayName": "Huyện Đắk Mil"
+        },
+        {
+            "id": "R6659280",
+            "name": "Huyện Đắk R'lấp",
+            "nameLocal": "Huyện Đắk R'lấp",
+            "countryId": "R1884042",
+            "displayName": "Huyện Đắk R'lấp"
+        },
+        {
+            "id": "R7083821",
+            "name": "Huyện Đắk Song",
+            "nameLocal": "Huyện Đắk Song",
+            "countryId": "R1884042",
+            "displayName": "Huyện Đắk Song"
+        },
+        {
+            "id": "R7083790",
+            "name": "Huyện Krông Nô",
+            "nameLocal": "Huyện Krông Nô",
+            "countryId": "R1884042",
+            "displayName": "Huyện Krông Nô"
+        },
+        {
+            "id": "R7083860",
+            "name": "Huyện Tuy Đức",
+            "nameLocal": "Huyện Tuy Đức",
+            "countryId": "R1884042",
+            "displayName": "Huyện Tuy Đức"
+        },
+        {
+            "id": "R6659850",
+            "name": "Thành phố Gia Nghĩa",
+            "nameLocal": "Thành phố Gia Nghĩa",
+            "countryId": "R1884042",
+            "displayName": "Thành phố Gia Nghĩa"
+        },
+        {
+            "id": "R6932525",
+            "name": "Huyện Điện Biên",
+            "nameLocal": "Huyện Điện Biên",
+            "countryId": "R1903340",
+            "displayName": "Huyện Điện Biên"
+        },
+        {
+            "id": "R6932557",
+            "name": "Huyện Điện Biên Đông",
+            "nameLocal": "Huyện Điện Biên Đông",
+            "countryId": "R1903340",
+            "displayName": "Huyện Điện Biên Đông"
+        },
+        {
+            "id": "R7094929",
+            "name": "Huyện Mường Ảng",
+            "nameLocal": "Huyện Mường Ảng",
+            "countryId": "R1903340",
+            "displayName": "Huyện Mường Ảng"
+        },
+        {
+            "id": "R7095004",
+            "name": "Huyện Mường Chà",
+            "nameLocal": "Huyện Mường Chà",
+            "countryId": "R1903340",
+            "displayName": "Huyện Mường Chà"
+        },
+        {
+            "id": "R6300521",
+            "name": "Huyện Mường Nhé",
+            "nameLocal": "Huyện Mường Nhé",
+            "countryId": "R1903340",
+            "displayName": "Huyện Mường Nhé"
+        },
+        {
+            "id": "R7094823",
+            "name": "Huyện Nậm Pồ",
+            "nameLocal": "Huyện Nậm Pồ",
+            "countryId": "R1903340",
+            "displayName": "Huyện Nậm Pồ"
+        },
+        {
+            "id": "R7094946",
+            "name": "Huyện Tủa Chùa",
+            "nameLocal": "Huyện Tủa Chùa",
+            "countryId": "R1903340",
+            "displayName": "Huyện Tủa Chùa"
+        },
+        {
+            "id": "R7094992",
+            "name": "Huyện Tuần Giáo",
+            "nameLocal": "Huyện Tuần Giáo",
+            "countryId": "R1903340",
+            "displayName": "Huyện Tuần Giáo"
+        },
+        {
+            "id": "R6932526",
+            "name": "Thành Phố Điện Biên Phủ",
+            "nameLocal": "Thành Phố Điện Biên Phủ",
+            "countryId": "R1903340",
+            "displayName": "Thành Phố Điện Biên Phủ"
+        },
+        {
+            "id": "R7094991",
+            "name": "Thị Xã Mường Lay",
+            "nameLocal": "Thị Xã Mường Lay",
+            "countryId": "R1903340",
+            "displayName": "Thị Xã Mường Lay"
+        },
+        {
+            "id": "R7153803",
+            "name": "Huyện Cẩm Mỹ",
+            "nameLocal": "Huyện Cẩm Mỹ",
+            "countryId": "R1904421",
+            "displayName": "Huyện Cẩm Mỹ"
+        },
+        {
+            "id": "R7153588",
+            "name": "Huyện Định Quán",
+            "nameLocal": "Huyện Định Quán",
+            "countryId": "R1904421",
+            "displayName": "Huyện Định Quán"
+        },
+        {
+            "id": "R7153928",
+            "name": "Huyện Long Thành",
+            "nameLocal": "Huyện Long Thành",
+            "countryId": "R1904421",
+            "displayName": "Huyện Long Thành"
+        },
+        {
+            "id": "R7153857",
+            "name": "Huyện Nhơn Trạch",
+            "nameLocal": "Huyện Nhơn Trạch",
+            "countryId": "R1904421",
+            "displayName": "Huyện Nhơn Trạch"
+        },
+        {
+            "id": "R7153436",
+            "name": "Huyện Tân Phú",
+            "nameLocal": "Huyện Tân Phú",
+            "countryId": "R1904421",
+            "displayName": "Huyện Tân Phú"
+        },
+        {
+            "id": "R7153965",
+            "name": "Huyện Thống Nhất",
+            "nameLocal": "Huyện Thống Nhất",
+            "countryId": "R1904421",
+            "displayName": "Huyện Thống Nhất"
+        },
+        {
+            "id": "R7154076",
+            "name": "Huyện Trảng Bom",
+            "nameLocal": "Huyện Trảng Bom",
+            "countryId": "R1904421",
+            "displayName": "Huyện Trảng Bom"
+        },
+        {
+            "id": "R7153465",
+            "name": "Huyện Vĩnh Cửu",
+            "nameLocal": "Huyện Vĩnh Cửu",
+            "countryId": "R1904421",
+            "displayName": "Huyện Vĩnh Cửu"
+        },
+        {
+            "id": "R7153756",
+            "name": "Huyện Xuân Lộc",
+            "nameLocal": "Huyện Xuân Lộc",
+            "countryId": "R1904421",
+            "displayName": "Huyện Xuân Lộc"
+        },
+        {
+            "id": "R7154127",
+            "name": "Thành Phố Biên Hòa",
+            "nameLocal": "Thành Phố Biên Hòa",
+            "countryId": "R1904421",
+            "displayName": "Thành Phố Biên Hòa"
+        },
+        {
+            "id": "R7153784",
+            "name": "Thành Phố Long Khánh",
+            "nameLocal": "Thành Phố Long Khánh",
+            "countryId": "R1904421",
+            "displayName": "Thành Phố Long Khánh"
+        },
+        {
+            "id": "R7146428",
+            "name": "Huyện Cao Lãnh",
+            "nameLocal": "Huyện Cao Lãnh",
+            "countryId": "R1875866",
+            "displayName": "Huyện Cao Lãnh"
+        },
+        {
+            "id": "R7146379",
+            "name": "Huyện Châu Thành",
+            "nameLocal": "Huyện Châu Thành",
+            "countryId": "R1875866",
+            "displayName": "Huyện Châu Thành"
+        },
+        {
+            "id": "R7146549",
+            "name": "Huyện Hồng Ngự",
+            "nameLocal": "Huyện Hồng Ngự",
+            "countryId": "R1875866",
+            "displayName": "Huyện Hồng Ngự"
+        },
+        {
+            "id": "R7146397",
+            "name": "Huyện Lai Vung",
+            "nameLocal": "Huyện Lai Vung",
+            "countryId": "R1875866",
+            "displayName": "Huyện Lai Vung"
+        },
+        {
+            "id": "R7146409",
+            "name": "Huyện Lấp Vò",
+            "nameLocal": "Huyện Lấp Vò",
+            "countryId": "R1875866",
+            "displayName": "Huyện Lấp Vò"
+        },
+        {
+            "id": "R7146446",
+            "name": "Huyện Tam Nông",
+            "nameLocal": "Huyện Tam Nông",
+            "countryId": "R1875866",
+            "displayName": "Huyện Tam Nông"
+        },
+        {
+            "id": "R7146449",
+            "name": "Huyện Tân Hồng",
+            "nameLocal": "Huyện Tân Hồng",
+            "countryId": "R1875866",
+            "displayName": "Huyện Tân Hồng"
+        },
+        {
+            "id": "R7146432",
+            "name": "Huyện Thanh Bình",
+            "nameLocal": "Huyện Thanh Bình",
+            "countryId": "R1875866",
+            "displayName": "Huyện Thanh Bình"
+        },
+        {
+            "id": "R7146431",
+            "name": "Huyện Tháp Mười",
+            "nameLocal": "Huyện Tháp Mười",
+            "countryId": "R1875866",
+            "displayName": "Huyện Tháp Mười"
+        },
+        {
+            "id": "R7146420",
+            "name": "Thành Phố Cao Lãnh",
+            "nameLocal": "Thành Phố Cao Lãnh",
+            "countryId": "R1875866",
+            "displayName": "Thành Phố Cao Lãnh"
+        },
+        {
+            "id": "R80000016",
+            "name": "Thành Phố Sa Đéc",
+            "nameLocal": "Thành Phố Sa Đéc",
+            "countryId": "R1875866",
+            "displayName": "Thành Phố Sa Đéc"
+        },
+        {
+            "id": "R7146550",
+            "name": "Thị Xã Hồng Ngự",
+            "nameLocal": "Thị Xã Hồng Ngự",
+            "countryId": "R1875866",
+            "displayName": "Thị Xã Hồng Ngự"
+        },
+        {
+            "id": "R7073790",
+            "name": "Huyện Chư Păh",
+            "nameLocal": "Huyện Chư Păh",
+            "countryId": "R1884018",
+            "displayName": "Huyện Chư Păh"
+        },
+        {
+            "id": "R7072468",
+            "name": "Huyện Chư Prông",
+            "nameLocal": "Huyện Chư Prông",
+            "countryId": "R1884018",
+            "displayName": "Huyện Chư Prông"
+        },
+        {
+            "id": "R7073909",
+            "name": "Huyện Chư Pưh",
+            "nameLocal": "Huyện Chư Pưh",
+            "countryId": "R1884018",
+            "displayName": "Huyện Chư Pưh"
+        },
+        {
+            "id": "R7072532",
+            "name": "Huyện Chư Sê",
+            "nameLocal": "Huyện Chư Sê",
+            "countryId": "R1884018",
+            "displayName": "Huyện Chư Sê"
+        },
+        {
+            "id": "R7073842",
+            "name": "Huyện Đak Pơ",
+            "nameLocal": "Huyện Đak Pơ",
+            "countryId": "R1884018",
+            "displayName": "Huyện Đak Pơ"
+        },
+        {
+            "id": "R7073911",
+            "name": "Huyện Đắk Đoa",
+            "nameLocal": "Huyện Đắk Đoa",
+            "countryId": "R1884018",
+            "displayName": "Huyện Đắk Đoa"
+        },
+        {
+            "id": "R7070396",
+            "name": "Huyện Đức Cơ",
+            "nameLocal": "Huyện Đức Cơ",
+            "countryId": "R1884018",
+            "displayName": "Huyện Đức Cơ"
+        },
+        {
+            "id": "R7070352",
+            "name": "Huyện Ia Grai",
+            "nameLocal": "Huyện Ia Grai",
+            "countryId": "R1884018",
+            "displayName": "Huyện Ia Grai"
+        },
+        {
+            "id": "R7073723",
+            "name": "Huyện Ia Pa",
+            "nameLocal": "Huyện Ia Pa",
+            "countryId": "R1884018",
+            "displayName": "Huyện Ia Pa"
+        },
+        {
+            "id": "R7073806",
+            "name": "Huyện Kbang",
+            "nameLocal": "Huyện Kbang",
+            "countryId": "R1884018",
+            "displayName": "Huyện Kbang"
+        },
+        {
+            "id": "R7073780",
+            "name": "Huyện Kông Chro",
+            "nameLocal": "Huyện Kông Chro",
+            "countryId": "R1884018",
+            "displayName": "Huyện Kông Chro"
+        },
+        {
+            "id": "R7070335",
+            "name": "Huyện Krông Pa",
+            "nameLocal": "Huyện Krông Pa",
+            "countryId": "R1884018",
+            "displayName": "Huyện Krông Pa"
+        },
+        {
+            "id": "R7073871",
+            "name": "Huyện Mang Yang",
+            "nameLocal": "Huyện Mang Yang",
+            "countryId": "R1884018",
+            "displayName": "Huyện Mang Yang"
+        },
+        {
+            "id": "R7072675",
+            "name": "Huyện Phú Thiện",
+            "nameLocal": "Huyện Phú Thiện",
+            "countryId": "R1884018",
+            "displayName": "Huyện Phú Thiện"
+        },
+        {
+            "id": "R7073910",
+            "name": "Thành Phố Pleiku",
+            "nameLocal": "Thành Phố Pleiku",
+            "countryId": "R1884018",
+            "displayName": "Thành Phố Pleiku"
+        },
+        {
+            "id": "R7073818",
+            "name": "Thị Xã An Khê",
+            "nameLocal": "Thị Xã An Khê",
+            "countryId": "R1884018",
+            "displayName": "Thị Xã An Khê"
+        },
+        {
+            "id": "R7073603",
+            "name": "Thị Xã Ayun Pa",
+            "nameLocal": "Thị Xã Ayun Pa",
+            "countryId": "R1884018",
+            "displayName": "Thị Xã Ayun Pa"
+        },
+        {
+            "id": "R7099319",
+            "name": "Huyện Bắc Mê",
+            "nameLocal": "Huyện Bắc Mê",
+            "countryId": "R1903478",
+            "displayName": "Huyện Bắc Mê"
+        },
+        {
+            "id": "R7098025",
+            "name": "Huyện Bắc Quang",
+            "nameLocal": "Huyện Bắc Quang",
+            "countryId": "R1903478",
+            "displayName": "Huyện Bắc Quang"
+        },
+        {
+            "id": "R7099308",
+            "name": "Huyện Đồng Văn",
+            "nameLocal": "Huyện Đồng Văn",
+            "countryId": "R1903478",
+            "displayName": "Huyện Đồng Văn"
+        },
+        {
+            "id": "R7098090",
+            "name": "Huyện Hoàng Su Phì",
+            "nameLocal": "Huyện Hoàng Su Phì",
+            "countryId": "R1903478",
+            "displayName": "Huyện Hoàng Su Phì"
+        },
+        {
+            "id": "R7099320",
+            "name": "Huyện Mèo Vạc",
+            "nameLocal": "Huyện Mèo Vạc",
+            "countryId": "R1903478",
+            "displayName": "Huyện Mèo Vạc"
+        },
+        {
+            "id": "R7099241",
+            "name": "Huyện Quản Bạ",
+            "nameLocal": "Huyện Quản Bạ",
+            "countryId": "R1903478",
+            "displayName": "Huyện Quản Bạ"
+        },
+        {
+            "id": "R7098040",
+            "name": "Huyện Quang Bình",
+            "nameLocal": "Huyện Quang Bình",
+            "countryId": "R1903478",
+            "displayName": "Huyện Quang Bình"
+        },
+        {
+            "id": "R7098010",
+            "name": "Huyện Vị Xuyên",
+            "nameLocal": "Huyện Vị Xuyên",
+            "countryId": "R1903478",
+            "displayName": "Huyện Vị Xuyên"
+        },
+        {
+            "id": "R7098062",
+            "name": "Huyện Xín Mần",
+            "nameLocal": "Huyện Xín Mần",
+            "countryId": "R1903478",
+            "displayName": "Huyện Xín Mần"
+        },
+        {
+            "id": "R7099302",
+            "name": "Huyện Yên Minh",
+            "nameLocal": "Huyện Yên Minh",
+            "countryId": "R1903478",
+            "displayName": "Huyện Yên Minh"
+        },
+        {
+            "id": "R7098009",
+            "name": "Thành Phố Hà Giang",
+            "nameLocal": "Thành Phố Hà Giang",
+            "countryId": "R1903478",
+            "displayName": "Thành Phố Hà Giang"
+        },
+        {
+            "id": "R7133255",
+            "name": "Huyện Bình Giang",
+            "nameLocal": "Huyện Bình Giang",
+            "countryId": "R1902686",
+            "displayName": "Huyện Bình Giang"
+        },
+        {
+            "id": "R7131274",
+            "name": "Huyện Cẩm Giàng",
+            "nameLocal": "Huyện Cẩm Giàng",
+            "countryId": "R1902686",
+            "displayName": "Huyện Cẩm Giàng"
+        },
+        {
+            "id": "R7131215",
+            "name": "Huyện Gia Lộc",
+            "nameLocal": "Huyện Gia Lộc",
+            "countryId": "R1902686",
+            "displayName": "Huyện Gia Lộc"
+        },
+        {
+            "id": "R7133409",
+            "name": "Huyện Kim Thành",
+            "nameLocal": "Huyện Kim Thành",
+            "countryId": "R1902686",
+            "displayName": "Huyện Kim Thành"
+        },
+        {
+            "id": "R7133376",
+            "name": "Huyện Nam Sách",
+            "nameLocal": "Huyện Nam Sách",
+            "countryId": "R1902686",
+            "displayName": "Huyện Nam Sách"
+        },
+        {
+            "id": "R7133266",
+            "name": "Huyện Ninh Giang",
+            "nameLocal": "Huyện Ninh Giang",
+            "countryId": "R1902686",
+            "displayName": "Huyện Ninh Giang"
+        },
+        {
+            "id": "R7131166",
+            "name": "Huyện Thanh Hà",
+            "nameLocal": "Huyện Thanh Hà",
+            "countryId": "R1902686",
+            "displayName": "Huyện Thanh Hà"
+        },
+        {
+            "id": "R7133247",
+            "name": "Huyện Thanh Miện",
+            "nameLocal": "Huyện Thanh Miện",
+            "countryId": "R1902686",
+            "displayName": "Huyện Thanh Miện"
+        },
+        {
+            "id": "R7133306",
+            "name": "Huyện Tứ Kỳ",
+            "nameLocal": "Huyện Tứ Kỳ",
+            "countryId": "R1902686",
+            "displayName": "Huyện Tứ Kỳ"
+        },
+        {
+            "id": "R7133375",
+            "name": "Thành Phố Chí Linh",
+            "nameLocal": "Thành Phố Chí Linh",
+            "countryId": "R1902686",
+            "displayName": "Thành Phố Chí Linh"
+        },
+        {
+            "id": "R7131264",
+            "name": "Thành Phố Hải Dương",
+            "nameLocal": "Thành Phố Hải Dương",
+            "countryId": "R1902686",
+            "displayName": "Thành Phố Hải Dương"
+        },
+        {
+            "id": "R7133389",
+            "name": "Thị xã Kinh Môn",
+            "nameLocal": "Thị xã Kinh Môn",
+            "countryId": "R1902686",
+            "displayName": "Thị xã Kinh Môn"
+        },
+        {
+            "id": "R3185789",
+            "name": "Huyện An Dương",
+            "nameLocal": "Huyện An Dương",
+            "countryId": "R1902682",
+            "displayName": "Huyện An Dương"
+        },
+        {
+            "id": "R3185683",
+            "name": "Huyện An Lão",
+            "nameLocal": "Huyện An Lão",
+            "countryId": "R1902682",
+            "displayName": "Huyện An Lão"
+        },
+        {
+            "id": "R80000003",
+            "name": "Huyện Bạch Long Vĩ",
+            "nameLocal": "Huyện Bạch Long Vĩ",
+            "countryId": "R1902682",
+            "displayName": "Huyện Bạch Long Vĩ"
+        },
+        {
+            "id": "R3185925",
+            "name": "Huyện Cát Hải",
+            "nameLocal": "Huyện Cát Hải",
+            "countryId": "R1902682",
+            "displayName": "Huyện Cát Hải"
+        },
+        {
+            "id": "R3185928",
+            "name": "Huyện Kiến Thụy",
+            "nameLocal": "Huyện Kiến Thụy",
+            "countryId": "R1902682",
+            "displayName": "Huyện Kiến Thụy"
+        },
+        {
+            "id": "R3185687",
+            "name": "Huyện Thủy Nguyên",
+            "nameLocal": "Huyện Thủy Nguyên",
+            "countryId": "R1902682",
+            "displayName": "Huyện Thủy Nguyên"
+        },
+        {
+            "id": "R3185684",
+            "name": "Huyện Tiên Lãng",
+            "nameLocal": "Huyện Tiên Lãng",
+            "countryId": "R1902682",
+            "displayName": "Huyện Tiên Lãng"
+        },
+        {
+            "id": "R3185685",
+            "name": "Huyện Vĩnh Bảo",
+            "nameLocal": "Huyện Vĩnh Bảo",
+            "countryId": "R1902682",
+            "displayName": "Huyện Vĩnh Bảo"
+        },
+        {
+            "id": "R3185926",
+            "name": "Quận Dương Kinh",
+            "nameLocal": "Quận Dương Kinh",
+            "countryId": "R1902682",
+            "displayName": "Quận Dương Kinh"
+        },
+        {
+            "id": "R3185931",
+            "name": "Quận Đồ Sơn",
+            "nameLocal": "Quận Đồ Sơn",
+            "countryId": "R1902682",
+            "displayName": "Quận Đồ Sơn"
+        },
+        {
+            "id": "R80000002",
+            "name": "Quận Hải An",
+            "nameLocal": "Quận Hải An",
+            "countryId": "R1902682",
+            "displayName": "Quận Hải An"
+        },
+        {
+            "id": "R80000004",
+            "name": "Quận Hồng Bàng",
+            "nameLocal": "Quận Hồng Bàng",
+            "countryId": "R1902682",
+            "displayName": "Quận Hồng Bàng"
+        },
+        {
+            "id": "R3185862",
+            "name": "Quận Kiến An",
+            "nameLocal": "Quận Kiến An",
+            "countryId": "R1902682",
+            "displayName": "Quận Kiến An"
+        },
+        {
+            "id": "R3185929",
+            "name": "Quận Lê Chân",
+            "nameLocal": "Quận Lê Chân",
+            "countryId": "R1902682",
+            "displayName": "Quận Lê Chân"
+        },
+        {
+            "id": "R80000005",
+            "name": "Quận Ngô Quyền",
+            "nameLocal": "Quận Ngô Quyền",
+            "countryId": "R1902682",
+            "displayName": "Quận Ngô Quyền"
+        },
+        {
+            "id": "R7121593",
+            "name": "Huyện Bình Lục",
+            "nameLocal": "Huyện Bình Lục",
+            "countryId": "R1901010",
+            "displayName": "Huyện Bình Lục"
+        },
+        {
+            "id": "R7121456",
+            "name": "Huyện Kim Bảng",
+            "nameLocal": "Huyện Kim Bảng",
+            "countryId": "R1901010",
+            "displayName": "Huyện Kim Bảng"
+        },
+        {
+            "id": "R7121597",
+            "name": "Huyện Lý Nhân",
+            "nameLocal": "Huyện Lý Nhân",
+            "countryId": "R1901010",
+            "displayName": "Huyện Lý Nhân"
+        },
+        {
+            "id": "R7121553",
+            "name": "Huyện Thanh Liêm",
+            "nameLocal": "Huyện Thanh Liêm",
+            "countryId": "R1901010",
+            "displayName": "Huyện Thanh Liêm"
+        },
+        {
+            "id": "R7121472",
+            "name": "Thành Phố Phủ Lý",
+            "nameLocal": "Thành Phố Phủ Lý",
+            "countryId": "R1901010",
+            "displayName": "Thành Phố Phủ Lý"
+        },
+        {
+            "id": "R7121603",
+            "name": "Thị xã Duy Tiên",
+            "nameLocal": "Thị xã Duy Tiên",
+            "countryId": "R1901010",
+            "displayName": "Thị xã Duy Tiên"
+        },
+        {
+            "id": "R7115003",
+            "name": "Huyện Ba Vì",
+            "nameLocal": "Huyện Ba Vì",
+            "countryId": "R1903516",
+            "displayName": "Huyện Ba Vì"
+        },
+        {
+            "id": "R7115367",
+            "name": "Huyện Chương Mỹ",
+            "nameLocal": "Huyện Chương Mỹ",
+            "countryId": "R1903516",
+            "displayName": "Huyện Chương Mỹ"
+        },
+        {
+            "id": "R7115780",
+            "name": "Huyện Đan Phượng",
+            "nameLocal": "Huyện Đan Phượng",
+            "countryId": "R1903516",
+            "displayName": "Huyện Đan Phượng"
+        },
+        {
+            "id": "R7114815",
+            "name": "Huyện Đông Anh",
+            "nameLocal": "Huyện Đông Anh",
+            "countryId": "R1903516",
+            "displayName": "Huyện Đông Anh"
+        },
+        {
+            "id": "R7115759",
+            "name": "Huyện Gia Lâm",
+            "nameLocal": "Huyện Gia Lâm",
+            "countryId": "R1903516",
+            "displayName": "Huyện Gia Lâm"
+        },
+        {
+            "id": "R7115795",
+            "name": "Huyện Hoài Đức",
+            "nameLocal": "Huyện Hoài Đức",
+            "countryId": "R1903516",
+            "displayName": "Huyện Hoài Đức"
+        },
+        {
+            "id": "R7114823",
+            "name": "Huyện Mê Linh",
+            "nameLocal": "Huyện Mê Linh",
+            "countryId": "R1903516",
+            "displayName": "Huyện Mê Linh"
+        },
+        {
+            "id": "R7115398",
+            "name": "Huyện Mỹ Đức",
+            "nameLocal": "Huyện Mỹ Đức",
+            "countryId": "R1903516",
+            "displayName": "Huyện Mỹ Đức"
+        },
+        {
+            "id": "R7114829",
+            "name": "Huyện Phúc Thọ",
+            "nameLocal": "Huyện Phúc Thọ",
+            "countryId": "R1903516",
+            "displayName": "Huyện Phúc Thọ"
+        },
+        {
+            "id": "R7115635",
+            "name": "Huyện Phú Xuyên",
+            "nameLocal": "Huyện Phú Xuyên",
+            "countryId": "R1903516",
+            "displayName": "Huyện Phú Xuyên"
+        },
+        {
+            "id": "R7115194",
+            "name": "Huyện Quốc Oai",
+            "nameLocal": "Huyện Quốc Oai",
+            "countryId": "R1903516",
+            "displayName": "Huyện Quốc Oai"
+        },
+        {
+            "id": "R7114806",
+            "name": "Huyện Sóc Sơn",
+            "nameLocal": "Huyện Sóc Sơn",
+            "countryId": "R1903516",
+            "displayName": "Huyện Sóc Sơn"
+        },
+        {
+            "id": "R7115008",
+            "name": "Huyện Thạch Thất",
+            "nameLocal": "Huyện Thạch Thất",
+            "countryId": "R1903516",
+            "displayName": "Huyện Thạch Thất"
+        },
+        {
+            "id": "R7115593",
+            "name": "Huyện Thanh Oai",
+            "nameLocal": "Huyện Thanh Oai",
+            "countryId": "R1903516",
+            "displayName": "Huyện Thanh Oai"
+        },
+        {
+            "id": "R7115709",
+            "name": "Huyện Thanh Trì",
+            "nameLocal": "Huyện Thanh Trì",
+            "countryId": "R1903516",
+            "displayName": "Huyện Thanh Trì"
+        },
+        {
+            "id": "R7115632",
+            "name": "Huyện Thường Tín",
+            "nameLocal": "Huyện Thường Tín",
+            "countryId": "R1903516",
+            "displayName": "Huyện Thường Tín"
+        },
+        {
+            "id": "R7115580",
+            "name": "Huyện Ứng Hòa",
+            "nameLocal": "Huyện Ứng Hòa",
+            "countryId": "R1903516",
+            "displayName": "Huyện Ứng Hòa"
+        },
+        {
+            "id": "R80198920",
+            "name": "Quận Ba Đình",
+            "nameLocal": "Quận Ba Đình",
+            "countryId": "R1903516",
+            "displayName": "Quận Ba Đình"
+        },
+        {
+            "id": "R7165826",
+            "name": "Quận Bắc Từ Liêm",
+            "nameLocal": "Quận Bắc Từ Liêm",
+            "countryId": "R1903516",
+            "displayName": "Quận Bắc Từ Liêm"
+        },
+        {
+            "id": "R80198921",
+            "name": "Quận Cầu Giấy",
+            "nameLocal": "Quận Cầu Giấy",
+            "countryId": "R1903516",
+            "displayName": "Quận Cầu Giấy"
+        },
+        {
+            "id": "R80198927",
+            "name": "Quận Đống Đa",
+            "nameLocal": "Quận Đống Đa",
+            "countryId": "R1903516",
+            "displayName": "Quận Đống Đa"
+        },
+        {
+            "id": "R80198925",
+            "name": "Quận Hà Đông",
+            "nameLocal": "Quận Hà Đông",
+            "countryId": "R1903516",
+            "displayName": "Quận Hà Đông"
+        },
+        {
+            "id": "R80198919",
+            "name": "Quận Hai Bà Trưng",
+            "nameLocal": "Quận Hai Bà Trưng",
+            "countryId": "R1903516",
+            "displayName": "Quận Hai Bà Trưng"
+        },
+        {
+            "id": "R80198924",
+            "name": "Quận Hoàng Mai",
+            "nameLocal": "Quận Hoàng Mai",
+            "countryId": "R1903516",
+            "displayName": "Quận Hoàng Mai"
+        },
+        {
+            "id": "R80198928",
+            "name": "Quận Hoàn Kiếm",
+            "nameLocal": "Quận Hoàn Kiếm",
+            "countryId": "R1903516",
+            "displayName": "Quận Hoàn Kiếm"
+        },
+        {
+            "id": "R7115863",
+            "name": "Quận Long Biên",
+            "nameLocal": "Quận Long Biên",
+            "countryId": "R1903516",
+            "displayName": "Quận Long Biên"
+        },
+        {
+            "id": "R80198926",
+            "name": "Quận Nam Từ Liêm",
+            "nameLocal": "Quận Nam Từ Liêm",
+            "countryId": "R1903516",
+            "displayName": "Quận Nam Từ Liêm"
+        },
+        {
+            "id": "R80198923",
+            "name": "Quận Tây Hồ",
+            "nameLocal": "Quận Tây Hồ",
+            "countryId": "R1903516",
+            "displayName": "Quận Tây Hồ"
+        },
+        {
+            "id": "R80198922",
+            "name": "Quận Thanh Xuân",
+            "nameLocal": "Quận Thanh Xuân",
+            "countryId": "R1903516",
+            "displayName": "Quận Thanh Xuân"
+        },
+        {
+            "id": "R7114847",
+            "name": "Thị Xã Sơn Tây",
+            "nameLocal": "Thị Xã Sơn Tây",
+            "countryId": "R1903516",
+            "displayName": "Thị Xã Sơn Tây"
+        },
+        {
+            "id": "R7036318",
+            "name": "Huyện Can Lộc",
+            "nameLocal": "Huyện Can Lộc",
+            "countryId": "R1898458",
+            "displayName": "Huyện Can Lộc"
+        },
+        {
+            "id": "R7035243",
+            "name": "Huyện Cẩm Xuyên",
+            "nameLocal": "Huyện Cẩm Xuyên",
+            "countryId": "R1898458",
+            "displayName": "Huyện Cẩm Xuyên"
+        },
+        {
+            "id": "R7036501",
+            "name": "Huyện Đức Thọ",
+            "nameLocal": "Huyện Đức Thọ",
+            "countryId": "R1898458",
+            "displayName": "Huyện Đức Thọ"
+        },
+        {
+            "id": "R7034070",
+            "name": "Huyện Hương Khê",
+            "nameLocal": "Huyện Hương Khê",
+            "countryId": "R1898458",
+            "displayName": "Huyện Hương Khê"
+        },
+        {
+            "id": "R7033665",
+            "name": "Huyện Hương Sơn",
+            "nameLocal": "Huyện Hương Sơn",
+            "countryId": "R1898458",
+            "displayName": "Huyện Hương Sơn"
+        },
+        {
+            "id": "R7036577",
+            "name": "Huyện Kỳ Anh",
+            "nameLocal": "Huyện Kỳ Anh",
+            "countryId": "R1898458",
+            "displayName": "Huyện Kỳ Anh"
+        },
+        {
+            "id": "R7036578",
+            "name": "Huyện Lộc Hà",
+            "nameLocal": "Huyện Lộc Hà",
+            "countryId": "R1898458",
+            "displayName": "Huyện Lộc Hà"
+        },
+        {
+            "id": "R7036466",
+            "name": "Huyện Nghi Xuân",
+            "nameLocal": "Huyện Nghi Xuân",
+            "countryId": "R1898458",
+            "displayName": "Huyện Nghi Xuân"
+        },
+        {
+            "id": "R7036057",
+            "name": "Huyện Thạch Hà",
+            "nameLocal": "Huyện Thạch Hà",
+            "countryId": "R1898458",
+            "displayName": "Huyện Thạch Hà"
+        },
+        {
+            "id": "R7033755",
+            "name": "Huyện Vũ Quang",
+            "nameLocal": "Huyện Vũ Quang",
+            "countryId": "R1898458",
+            "displayName": "Huyện Vũ Quang"
+        },
+        {
+            "id": "R7035939",
+            "name": "Thành Phố Hà Tĩnh",
+            "nameLocal": "Thành Phố Hà Tĩnh",
+            "countryId": "R1898458",
+            "displayName": "Thành Phố Hà Tĩnh"
+        },
+        {
+            "id": "R7036443",
+            "name": "Thị Xã Hồng Lĩnh",
+            "nameLocal": "Thị Xã Hồng Lĩnh",
+            "countryId": "R1898458",
+            "displayName": "Thị Xã Hồng Lĩnh"
+        },
+        {
+            "id": "R80314301",
+            "name": "Thị Xã Kỳ Anh",
+            "nameLocal": "Thị Xã Kỳ Anh",
+            "countryId": "R1898458",
+            "displayName": "Thị Xã Kỳ Anh"
+        },
+        {
+            "id": "R7148696",
+            "name": "Huyện Châu Thành",
+            "nameLocal": "Huyện Châu Thành",
+            "countryId": "R1874249",
+            "displayName": "Huyện Châu Thành"
+        },
+        {
+            "id": "R7148723",
+            "name": "Huyện Châu Thành A",
+            "nameLocal": "Huyện Châu Thành A",
+            "countryId": "R1874249",
+            "displayName": "Huyện Châu Thành A"
+        },
+        {
+            "id": "R7148513",
+            "name": "Huyện Long Mỹ",
+            "nameLocal": "Huyện Long Mỹ",
+            "countryId": "R1874249",
+            "displayName": "Huyện Long Mỹ"
+        },
+        {
+            "id": "R7148642",
+            "name": "Huyện Phụng Hiệp",
+            "nameLocal": "Huyện Phụng Hiệp",
+            "countryId": "R1874249",
+            "displayName": "Huyện Phụng Hiệp"
+        },
+        {
+            "id": "R7148569",
+            "name": "Huyện Vị Thủy",
+            "nameLocal": "Huyện Vị Thủy",
+            "countryId": "R1874249",
+            "displayName": "Huyện Vị Thủy"
+        },
+        {
+            "id": "R7148562",
+            "name": "Thành Phố Vị Thanh",
+            "nameLocal": "Thành Phố Vị Thanh",
+            "countryId": "R1874249",
+            "displayName": "Thành Phố Vị Thanh"
+        },
+        {
+            "id": "R80314308",
+            "name": "Thị Xã Long Mỹ",
+            "nameLocal": "Thị Xã Long Mỹ",
+            "countryId": "R1874249",
+            "displayName": "Thị Xã Long Mỹ"
+        },
+        {
+            "id": "R7148641",
+            "name": "Thị Xã Ngã Bảy",
+            "nameLocal": "Thị Xã Ngã Bảy",
+            "countryId": "R1874249",
+            "displayName": "Thị Xã Ngã Bảy"
+        },
+        {
+            "id": "R7120278",
+            "name": "Huyện Cao Phong",
+            "nameLocal": "Huyện Cao Phong",
+            "countryId": "R1902973",
+            "displayName": "Huyện Cao Phong"
+        },
+        {
+            "id": "R7119995",
+            "name": "Huyện Đà Bắc",
+            "nameLocal": "Huyện Đà Bắc",
+            "countryId": "R1902973",
+            "displayName": "Huyện Đà Bắc"
+        },
+        {
+            "id": "R7120317",
+            "name": "Huyện Kim Bôi",
+            "nameLocal": "Huyện Kim Bôi",
+            "countryId": "R1902973",
+            "displayName": "Huyện Kim Bôi"
+        },
+        {
+            "id": "R7120261",
+            "name": "Huyện Lạc Sơn",
+            "nameLocal": "Huyện Lạc Sơn",
+            "countryId": "R1902973",
+            "displayName": "Huyện Lạc Sơn"
+        },
+        {
+            "id": "R7120312",
+            "name": "Huyện Lạc Thuỷ",
+            "nameLocal": "Huyện Lạc Thuỷ",
+            "countryId": "R1902973",
+            "displayName": "Huyện Lạc Thuỷ"
+        },
+        {
+            "id": "R7120466",
+            "name": "Huyện Lương Sơn",
+            "nameLocal": "Huyện Lương Sơn",
+            "countryId": "R1902973",
+            "displayName": "Huyện Lương Sơn"
+        },
+        {
+            "id": "R7120254",
+            "name": "Huyện Mai Châu",
+            "nameLocal": "Huyện Mai Châu",
+            "countryId": "R1902973",
+            "displayName": "Huyện Mai Châu"
+        },
+        {
+            "id": "R7120256",
+            "name": "Huyện Tân Lạc",
+            "nameLocal": "Huyện Tân Lạc",
+            "countryId": "R1902973",
+            "displayName": "Huyện Tân Lạc"
+        },
+        {
+            "id": "R7120289",
+            "name": "Huyện Yên Thuỷ",
+            "nameLocal": "Huyện Yên Thuỷ",
+            "countryId": "R1902973",
+            "displayName": "Huyện Yên Thuỷ"
+        },
+        {
+            "id": "R7120472",
+            "name": "Thành Phố Hòa Bình",
+            "nameLocal": "Thành Phố Hòa Bình",
+            "countryId": "R1902973",
+            "displayName": "Thành Phố Hòa Bình"
+        },
+        {
+            "id": "R7129730",
+            "name": "Huyện Ân Thi",
+            "nameLocal": "Huyện Ân Thi",
+            "countryId": "R1901032",
+            "displayName": "Huyện Ân Thi"
+        },
+        {
+            "id": "R7129751",
+            "name": "Huyện Khoái Châu",
+            "nameLocal": "Huyện Khoái Châu",
+            "countryId": "R1901032",
+            "displayName": "Huyện Khoái Châu"
+        },
+        {
+            "id": "R7129726",
+            "name": "Huyện Kim Động",
+            "nameLocal": "Huyện Kim Động",
+            "countryId": "R1901032",
+            "displayName": "Huyện Kim Động"
+        },
+        {
+            "id": "R7129728",
+            "name": "Huyện Phù Cừ",
+            "nameLocal": "Huyện Phù Cừ",
+            "countryId": "R1901032",
+            "displayName": "Huyện Phù Cừ"
+        },
+        {
+            "id": "R7128955",
+            "name": "Huyện Tiên Lữ",
+            "nameLocal": "Huyện Tiên Lữ",
+            "countryId": "R1901032",
+            "displayName": "Huyện Tiên Lữ"
+        },
+        {
+            "id": "R7129750",
+            "name": "Huyện Văn Giang",
+            "nameLocal": "Huyện Văn Giang",
+            "countryId": "R1901032",
+            "displayName": "Huyện Văn Giang"
+        },
+        {
+            "id": "R7129748",
+            "name": "Huyện Văn Lâm",
+            "nameLocal": "Huyện Văn Lâm",
+            "countryId": "R1901032",
+            "displayName": "Huyện Văn Lâm"
+        },
+        {
+            "id": "R7129754",
+            "name": "Huyện Yên Mỹ",
+            "nameLocal": "Huyện Yên Mỹ",
+            "countryId": "R1901032",
+            "displayName": "Huyện Yên Mỹ"
+        },
+        {
+            "id": "R7128990",
+            "name": "Thành Phố Hưng Yên",
+            "nameLocal": "Thành Phố Hưng Yên",
+            "countryId": "R1901032",
+            "displayName": "Thành Phố Hưng Yên"
+        },
+        {
+            "id": "R7129738",
+            "name": "Thị Xã Mỹ Hào",
+            "nameLocal": "Thị Xã Mỹ Hào",
+            "countryId": "R1901032",
+            "displayName": "Thị Xã Mỹ Hào"
+        },{
+        "id": "R7081515",
+        "name": "Huyện Cam Lâm",
+        "nameLocal": "Huyện Cam Lâm",
+        "countryId": "R1887959",
+        "displayName": "Huyện Cam Lâm"
+    },
+    {
+        "id": "R7081531",
+        "name": "Huyện Diên Khánh",
+        "nameLocal": "Huyện Diên Khánh",
+        "countryId": "R1887959",
+        "displayName": "Huyện Diên Khánh"
+    },
+    {
+        "id": "R7080992",
+        "name": "Huyện Khánh Sơn",
+        "nameLocal": "Huyện Khánh Sơn",
+        "countryId": "R1887959",
+        "displayName": "Huyện Khánh Sơn"
+    },
+    {
+        "id": "R7080594",
+        "name": "Huyện Khánh Vĩnh",
+        "nameLocal": "Huyện Khánh Vĩnh",
+        "countryId": "R1887959",
+        "displayName": "Huyện Khánh Vĩnh"
+    },
+    {
+        "id": "R3479413",
+        "name": "Huyện Trường Sa",
+        "nameLocal": "Huyện Trường Sa",
+        "countryId": "R1887959",
+        "displayName": "Huyện Trường Sa"
+    },
+    {
+        "id": "R7080408",
+        "name": "Huyện Vạn Ninh",
+        "nameLocal": "Huyện Vạn Ninh",
+        "countryId": "R1887959",
+        "displayName": "Huyện Vạn Ninh"
+    },
+    {
+        "id": "R7081247",
+        "name": "Thành Phố Cam Ranh",
+        "nameLocal": "Thành Phố Cam Ranh",
+        "countryId": "R1887959",
+        "displayName": "Thành Phố Cam Ranh"
+    },
+    {
+        "id": "R7081538",
+        "name": "Thành Phố Nha Trang",
+        "nameLocal": "Thành Phố Nha Trang",
+        "countryId": "R1887959",
+        "displayName": "Thành Phố Nha Trang"
+    },
+    {
+        "id": "R7080539",
+        "name": "Thị Xã Ninh Hòa",
+        "nameLocal": "Thị Xã Ninh Hòa",
+        "countryId": "R1887959",
+        "displayName": "Thị Xã Ninh Hòa"
+    },
+    {
+        "id": "R7138272",
+        "name": "Huyện An Biên",
+        "nameLocal": "Huyện An Biên",
+        "countryId": "R1874471",
+        "displayName": "Huyện An Biên"
+    },
+    {
+        "id": "R7138177",
+        "name": "Huyện An Minh",
+        "nameLocal": "Huyện An Minh",
+        "countryId": "R1874471",
+        "displayName": "Huyện An Minh"
+    },
+    {
+        "id": "R80000014",
+        "name": "Huyện Châu Thành",
+        "nameLocal": "Huyện Châu Thành",
+        "countryId": "R1874471",
+        "displayName": "Huyện Châu Thành"
+    },
+    {
+        "id": "R7138832",
+        "name": "Huyện Giang Thành",
+        "nameLocal": "Huyện Giang Thành",
+        "countryId": "R1874471",
+        "displayName": "Huyện Giang Thành"
+    },
+    {
+        "id": "R7138292",
+        "name": "Huyện Giồng Riềng",
+        "nameLocal": "Huyện Giồng Riềng",
+        "countryId": "R1874471",
+        "displayName": "Huyện Giồng Riềng"
+    },
+    {
+        "id": "R7138271",
+        "name": "Huyện Gò Quao",
+        "nameLocal": "Huyện Gò Quao",
+        "countryId": "R1874471",
+        "displayName": "Huyện Gò Quao"
+    },
+    {
+        "id": "R7136133",
+        "name": "Huyện Hòn Đất",
+        "nameLocal": "Huyện Hòn Đất",
+        "countryId": "R1874471",
+        "displayName": "Huyện Hòn Đất"
+    },
+    {
+        "id": "R7138905",
+        "name": "Huyện Kiên Hải",
+        "nameLocal": "Huyện Kiên Hải",
+        "countryId": "R1874471",
+        "displayName": "Huyện Kiên Hải"
+    },
+    {
+        "id": "R7136122",
+        "name": "Huyện Kiên Lương",
+        "nameLocal": "Huyện Kiên Lương",
+        "countryId": "R1874471",
+        "displayName": "Huyện Kiên Lương"
+    },
+    {
+        "id": "R7135978",
+        "name": "Huyện Phú Quốc",
+        "nameLocal": "Huyện Phú Quốc",
+        "countryId": "R1874471",
+        "displayName": "Huyện Phú Quốc"
+    },
+    {
+        "id": "R7138762",
+        "name": "Huyện Tân Hiệp",
+        "nameLocal": "Huyện Tân Hiệp",
+        "countryId": "R1874471",
+        "displayName": "Huyện Tân Hiệp"
+    },
+    {
+        "id": "R80000013",
+        "name": "Huyện U Minh Thượng",
+        "nameLocal": "Huyện U Minh Thượng",
+        "countryId": "R1874471",
+        "displayName": "Huyện U Minh Thượng"
+    },
+    {
+        "id": "R7138251",
+        "name": "Huyện Vĩnh Thuận",
+        "nameLocal": "Huyện Vĩnh Thuận",
+        "countryId": "R1874471",
+        "displayName": "Huyện Vĩnh Thuận"
+    },
+    {
+        "id": "R7136121",
+        "name": "Thành Phố Hà Tiên",
+        "nameLocal": "Thành Phố Hà Tiên",
+        "countryId": "R1874471",
+        "displayName": "Thành Phố Hà Tiên"
+    },
+    {
+        "id": "R7136150",
+        "name": "Thành Phố Rạch Giá",
+        "nameLocal": "Thành Phố Rạch Giá",
+        "countryId": "R1874471",
+        "displayName": "Thành Phố Rạch Giá"
+    },
+    {
+        "id": "R7063095",
+        "name": "Huyện Đak Glêi",
+        "nameLocal": "Huyện Đak Glêi",
+        "countryId": "R1879515",
+        "displayName": "Huyện Đak Glêi"
+    },
+    {
+        "id": "R7063792",
+        "name": "Huyện Đak Hà",
+        "nameLocal": "Huyện Đak Hà",
+        "countryId": "R1879515",
+        "displayName": "Huyện Đak Hà"
+    },
+    {
+        "id": "R7063842",
+        "name": "Huyện Đak Tô",
+        "nameLocal": "Huyện Đak Tô",
+        "countryId": "R1879515",
+        "displayName": "Huyện Đak Tô"
+    },
+    {
+        "id": "R80000017",
+        "name": "Huyện Ia HDrai",
+        "nameLocal": "Huyện Ia HDrai",
+        "countryId": "R1879515",
+        "displayName": "Huyện Ia HDrai"
+    },
+    {
+        "id": "R7063692",
+        "name": "Huyện Kon Plong",
+        "nameLocal": "Huyện Kon Plong",
+        "countryId": "R1879515",
+        "displayName": "Huyện Kon Plong"
+    },
+    {
+        "id": "R7063651",
+        "name": "Huyện Kon Rẫy",
+        "nameLocal": "Huyện Kon Rẫy",
+        "countryId": "R1879515",
+        "displayName": "Huyện Kon Rẫy"
+    },
+    {
+        "id": "R7063163",
+        "name": "Huyện Ngọc Hồi",
+        "nameLocal": "Huyện Ngọc Hồi",
+        "countryId": "R1879515",
+        "displayName": "Huyện Ngọc Hồi"
+    },
+    {
+        "id": "R7063090",
+        "name": "Huyện Sa Thầy",
+        "nameLocal": "Huyện Sa Thầy",
+        "countryId": "R1879515",
+        "displayName": "Huyện Sa Thầy"
+    },
+    {
+        "id": "R7063854",
+        "name": "Huyện Tu Mơ Rông",
+        "nameLocal": "Huyện Tu Mơ Rông",
+        "countryId": "R1879515",
+        "displayName": "Huyện Tu Mơ Rông"
+    },
+    {
+        "id": "R7063065",
+        "name": "Thành Phố Kon Tum",
+        "nameLocal": "Thành Phố Kon Tum",
+        "countryId": "R1879515",
+        "displayName": "Thành Phố Kon Tum"
+    },
+    {
+        "id": "R6300358",
+        "name": "Huyện Mường Tè",
+        "nameLocal": "Huyện Mường Tè",
+        "countryId": "R1903322",
+        "displayName": "Huyện Mường Tè"
+    },
+    {
+        "id": "R7094543",
+        "name": "Huyện Nậm Nhùn",
+        "nameLocal": "Huyện Nậm Nhùn",
+        "countryId": "R1903322",
+        "displayName": "Huyện Nậm Nhùn"
+    },
+    {
+        "id": "R6929157",
+        "name": "Huyện Phong Thổ",
+        "nameLocal": "Huyện Phong Thổ",
+        "countryId": "R1903322",
+        "displayName": "Huyện Phong Thổ"
+    },
+    {
+        "id": "R6929170",
+        "name": "Huyện Sìn Hồ",
+        "nameLocal": "Huyện Sìn Hồ",
+        "countryId": "R1903322",
+        "displayName": "Huyện Sìn Hồ"
+    },
+    {
+        "id": "R7094347",
+        "name": "Huyện Tam Đường",
+        "nameLocal": "Huyện Tam Đường",
+        "countryId": "R1903322",
+        "displayName": "Huyện Tam Đường"
+    },
+    {
+        "id": "R7094597",
+        "name": "Huyện Tân Uyên",
+        "nameLocal": "Huyện Tân Uyên",
+        "countryId": "R1903322",
+        "displayName": "Huyện Tân Uyên"
+    },
+    {
+        "id": "R7094614",
+        "name": "Huyện Than Uyên",
+        "nameLocal": "Huyện Than Uyên",
+        "countryId": "R1903322",
+        "displayName": "Huyện Than Uyên"
+    },
+    {
+        "id": "R7094297",
+        "name": "Thành Phố Lai Châu",
+        "nameLocal": "Thành Phố Lai Châu",
+        "countryId": "R1903322",
+        "displayName": "Thành Phố Lai Châu"
+    },
+    {
+        "id": "R6882617",
+        "name": "Huyện Bắc Sơn",
+        "nameLocal": "Huyện Bắc Sơn",
+        "countryId": "R5522596",
+        "displayName": "Huyện Bắc Sơn"
+    },
+    {
+        "id": "R6881753",
+        "name": "Huyện Bình Gia",
+        "nameLocal": "Huyện Bình Gia",
+        "countryId": "R5522596",
+        "displayName": "Huyện Bình Gia"
+    },
+    {
+        "id": "R7106214",
+        "name": "Huyện Cao Lộc",
+        "nameLocal": "Huyện Cao Lộc",
+        "countryId": "R5522596",
+        "displayName": "Huyện Cao Lộc"
+    },
+    {
+        "id": "R7106046",
+        "name": "Huyện Chi Lăng",
+        "nameLocal": "Huyện Chi Lăng",
+        "countryId": "R5522596",
+        "displayName": "Huyện Chi Lăng"
+    },
+    {
+        "id": "R6913804",
+        "name": "Huyện Đình Lập",
+        "nameLocal": "Huyện Đình Lập",
+        "countryId": "R5522596",
+        "displayName": "Huyện Đình Lập"
+    },
+    {
+        "id": "R6883035",
+        "name": "Huyện Hữu Lũng",
+        "nameLocal": "Huyện Hữu Lũng",
+        "countryId": "R5522596",
+        "displayName": "Huyện Hữu Lũng"
+    },
+    {
+        "id": "R7106558",
+        "name": "Huyện Lộc Bình",
+        "nameLocal": "Huyện Lộc Bình",
+        "countryId": "R5522596",
+        "displayName": "Huyện Lộc Bình"
+    },
+    {
+        "id": "R6882024",
+        "name": "Huyện Tràng Định",
+        "nameLocal": "Huyện Tràng Định",
+        "countryId": "R5522596",
+        "displayName": "Huyện Tràng Định"
+    },
+    {
+        "id": "R6881349",
+        "name": "Huyện Văn Lãng",
+        "nameLocal": "Huyện Văn Lãng",
+        "countryId": "R5522596",
+        "displayName": "Huyện Văn Lãng"
+    },
+    {
+        "id": "R7106060",
+        "name": "Huyện Văn Quan",
+        "nameLocal": "Huyện Văn Quan",
+        "countryId": "R5522596",
+        "displayName": "Huyện Văn Quan"
+    },
+    {
+        "id": "R7106070",
+        "name": "Thành Phố Lạng Sơn",
+        "nameLocal": "Thành Phố Lạng Sơn",
+        "countryId": "R5522596",
+        "displayName": "Thành Phố Lạng Sơn"
+    },
+    {
+        "id": "R7097043",
+        "name": "Huyện Bảo Thắng",
+        "nameLocal": "Huyện Bảo Thắng",
+        "countryId": "R1903400",
+        "displayName": "Huyện Bảo Thắng"
+    },
+    {
+        "id": "R7097142",
+        "name": "Huyện Bảo Yên",
+        "nameLocal": "Huyện Bảo Yên",
+        "countryId": "R1903400",
+        "displayName": "Huyện Bảo Yên"
+    },
+    {
+        "id": "R6927362",
+        "name": "Huyện Bát Xát",
+        "nameLocal": "Huyện Bát Xát",
+        "countryId": "R1903400",
+        "displayName": "Huyện Bát Xát"
+    },
+    {
+        "id": "R7097033",
+        "name": "Huyện Bắc Hà",
+        "nameLocal": "Huyện Bắc Hà",
+        "countryId": "R1903400",
+        "displayName": "Huyện Bắc Hà"
+    },
+    {
+        "id": "R7096636",
+        "name": "Huyện Mường Khương",
+        "nameLocal": "Huyện Mường Khương",
+        "countryId": "R1903400",
+        "displayName": "Huyện Mường Khương"
+    },
+    {
+        "id": "R7096652",
+        "name": "Huyện Si Ma Cai",
+        "nameLocal": "Huyện Si Ma Cai",
+        "countryId": "R1903400",
+        "displayName": "Huyện Si Ma Cai"
+    },
+    {
+        "id": "R6926507",
+        "name": "Huyện Văn Bàn",
+        "nameLocal": "Huyện Văn Bàn",
+        "countryId": "R1903400",
+        "displayName": "Huyện Văn Bàn"
+    },
+    {
+        "id": "R7097125",
+        "name": "Thành Phố Lào Cai",
+        "nameLocal": "Thành Phố Lào Cai",
+        "countryId": "R1903400",
+        "displayName": "Thành Phố Lào Cai"
+    },
+    {
+        "id": "R7097141",
+        "name": "Thị xã Sa Pa",
+        "nameLocal": "Thị xã Sa Pa",
+        "countryId": "R1903400",
+        "displayName": "Thị xã Sa Pa"
+    },
+    {
+        "id": "R7086934",
+        "name": "Huyện Bảo Lâm",
+        "nameLocal": "Huyện Bảo Lâm",
+        "countryId": "R1885367",
+        "displayName": "Huyện Bảo Lâm"
+    },
+    {
+        "id": "R7086801",
+        "name": "Huyện Cát Tiên",
+        "nameLocal": "Huyện Cát Tiên",
+        "countryId": "R1885367",
+        "displayName": "Huyện Cát Tiên"
+    },
+    {
+        "id": "R7086744",
+        "name": "Huyện Di Linh",
+        "nameLocal": "Huyện Di Linh",
+        "countryId": "R1885367",
+        "displayName": "Huyện Di Linh"
+    },
+    {
+        "id": "R7086877",
+        "name": "Huyện Đạ Huoai",
+        "nameLocal": "Huyện Đạ Huoai",
+        "countryId": "R1885367",
+        "displayName": "Huyện Đạ Huoai"
+    },
+    {
+        "id": "R7085952",
+        "name": "Huyện Đam Rông",
+        "nameLocal": "Huyện Đam Rông",
+        "countryId": "R1885367",
+        "displayName": "Huyện Đam Rông"
+    },
+    {
+        "id": "R7086892",
+        "name": "Huyện Đạ Tẻh",
+        "nameLocal": "Huyện Đạ Tẻh",
+        "countryId": "R1885367",
+        "displayName": "Huyện Đạ Tẻh"
+    },
+    {
+        "id": "R7086052",
+        "name": "Huyện Đơn Dương",
+        "nameLocal": "Huyện Đơn Dương",
+        "countryId": "R1885367",
+        "displayName": "Huyện Đơn Dương"
+    },
+    {
+        "id": "R7086489",
+        "name": "Huyện Đức Trọng",
+        "nameLocal": "Huyện Đức Trọng",
+        "countryId": "R1885367",
+        "displayName": "Huyện Đức Trọng"
+    },
+    {
+        "id": "R7085208",
+        "name": "Huyện Lạc Dương",
+        "nameLocal": "Huyện Lạc Dương",
+        "countryId": "R1885367",
+        "displayName": "Huyện Lạc Dương"
+    },
+    {
+        "id": "R7085126",
+        "name": "Huyện Lâm Hà",
+        "nameLocal": "Huyện Lâm Hà",
+        "countryId": "R1885367",
+        "displayName": "Huyện Lâm Hà"
+    },
+    {
+        "id": "R7086925",
+        "name": "Thành Phố Bảo Lộc",
+        "nameLocal": "Thành Phố Bảo Lộc",
+        "countryId": "R1885367",
+        "displayName": "Thành Phố Bảo Lộc"
+    },
+    {
+        "id": "R7086391",
+        "name": "Thành Phố Đà Lạt",
+        "nameLocal": "Thành Phố Đà Lạt",
+        "countryId": "R1885367",
+        "displayName": "Thành Phố Đà Lạt"
+    },
+    {
+        "id": "R7155564",
+        "name": "Huyện Bến Lức",
+        "nameLocal": "Huyện Bến Lức",
+        "countryId": "R1877236",
+        "displayName": "Huyện Bến Lức"
+    },
+    {
+        "id": "R7155560",
+        "name": "Huyện Cần Đước",
+        "nameLocal": "Huyện Cần Đước",
+        "countryId": "R1877236",
+        "displayName": "Huyện Cần Đước"
+    },
+    {
+        "id": "R7155556",
+        "name": "Huyện Cần Giuộc",
+        "nameLocal": "Huyện Cần Giuộc",
+        "countryId": "R1877236",
+        "displayName": "Huyện Cần Giuộc"
+    },
+    {
+        "id": "R7155537",
+        "name": "Huyện Châu Thành",
+        "nameLocal": "Huyện Châu Thành",
+        "countryId": "R1877236",
+        "displayName": "Huyện Châu Thành"
+    },
+    {
+        "id": "R7155473",
+        "name": "Huyện Đức Hoà",
+        "nameLocal": "Huyện Đức Hoà",
+        "countryId": "R1877236",
+        "displayName": "Huyện Đức Hoà"
+    },
+    {
+        "id": "R7155472",
+        "name": "Huyện Đức Huệ",
+        "nameLocal": "Huyện Đức Huệ",
+        "countryId": "R1877236",
+        "displayName": "Huyện Đức Huệ"
+    },
+    {
+        "id": "R7155326",
+        "name": "Huyện Mộc Hóa",
+        "nameLocal": "Huyện Mộc Hóa",
+        "countryId": "R1877236",
+        "displayName": "Huyện Mộc Hóa"
+    },
+    {
+        "id": "R7155189",
+        "name": "Huyện Tân Hưng",
+        "nameLocal": "Huyện Tân Hưng",
+        "countryId": "R1877236",
+        "displayName": "Huyện Tân Hưng"
+    },
+    {
+        "id": "R7155343",
+        "name": "Huyện Tân Thạnh",
+        "nameLocal": "Huyện Tân Thạnh",
+        "countryId": "R1877236",
+        "displayName": "Huyện Tân Thạnh"
+    },
+    {
+        "id": "R7155542",
+        "name": "Huyện Tân Trụ",
+        "nameLocal": "Huyện Tân Trụ",
+        "countryId": "R1877236",
+        "displayName": "Huyện Tân Trụ"
+    },
+    {
+        "id": "R7155352",
+        "name": "Huyện Thạnh Hoá",
+        "nameLocal": "Huyện Thạnh Hoá",
+        "countryId": "R1877236",
+        "displayName": "Huyện Thạnh Hoá"
+    },
+    {
+        "id": "R7155500",
+        "name": "Huyện Thủ Thừa",
+        "nameLocal": "Huyện Thủ Thừa",
+        "countryId": "R1877236",
+        "displayName": "Huyện Thủ Thừa"
+    },
+    {
+        "id": "R7155246",
+        "name": "Huyện Vĩnh Hưng",
+        "nameLocal": "Huyện Vĩnh Hưng",
+        "countryId": "R1877236",
+        "displayName": "Huyện Vĩnh Hưng"
+    },
+    {
+        "id": "R7155510",
+        "name": "Thành Phố Tân An",
+        "nameLocal": "Thành Phố Tân An",
+        "countryId": "R1877236",
+        "displayName": "Thành Phố Tân An"
+    },
+    {
+        "id": "R7155626",
+        "name": "Thị Xã Kiến Tường",
+        "nameLocal": "Thị Xã Kiến Tường",
+        "countryId": "R1877236",
+        "displayName": "Thị Xã Kiến Tường"
+    },
+    {
+        "id": "R7128005",
+        "name": "Huyện Giao Thủy",
+        "nameLocal": "Huyện Giao Thủy",
+        "countryId": "R1901008",
+        "displayName": "Huyện Giao Thủy"
+    },
+    {
+        "id": "R7127622",
+        "name": "Huyện Hải Hậu",
+        "nameLocal": "Huyện Hải Hậu",
+        "countryId": "R1901008",
+        "displayName": "Huyện Hải Hậu"
+    },
+    {
+        "id": "R7128031",
+        "name": "Huyện Mỹ Lộc",
+        "nameLocal": "Huyện Mỹ Lộc",
+        "countryId": "R1901008",
+        "displayName": "Huyện Mỹ Lộc"
+    },
+    {
+        "id": "R7128010",
+        "name": "Huyện Nam Trực",
+        "nameLocal": "Huyện Nam Trực",
+        "countryId": "R1901008",
+        "displayName": "Huyện Nam Trực"
+    },
+    {
+        "id": "R7127601",
+        "name": "Huyện Nghĩa Hưng",
+        "nameLocal": "Huyện Nghĩa Hưng",
+        "countryId": "R1901008",
+        "displayName": "Huyện Nghĩa Hưng"
+    },
+    {
+        "id": "R7127612",
+        "name": "Huyện Trực Ninh",
+        "nameLocal": "Huyện Trực Ninh",
+        "countryId": "R1901008",
+        "displayName": "Huyện Trực Ninh"
+    },
+    {
+        "id": "R7128023",
+        "name": "Huyện Vụ Bản",
+        "nameLocal": "Huyện Vụ Bản",
+        "countryId": "R1901008",
+        "displayName": "Huyện Vụ Bản"
+    },
+    {
+        "id": "R7127615",
+        "name": "Huyện Xuân Trường",
+        "nameLocal": "Huyện Xuân Trường",
+        "countryId": "R1901008",
+        "displayName": "Huyện Xuân Trường"
+    },
+    {
+        "id": "R7128018",
+        "name": "Huyện Ý Yên",
+        "nameLocal": "Huyện Ý Yên",
+        "countryId": "R1901008",
+        "displayName": "Huyện Ý Yên"
+    },
+    {
+        "id": "R7128027",
+        "name": "Thành Phố Nam Định",
+        "nameLocal": "Thành Phố Nam Định",
+        "countryId": "R1901008",
+        "displayName": "Thành Phố Nam Định"
+    },
+    {
+        "id": "R7033529",
+        "name": "Huyện Anh Sơn",
+        "nameLocal": "Huyện Anh Sơn",
+        "countryId": "R1898509",
+        "displayName": "Huyện Anh Sơn"
+    },
+    {
+        "id": "R7017020",
+        "name": "Huyện Con Cuông",
+        "nameLocal": "Huyện Con Cuông",
+        "countryId": "R1898509",
+        "displayName": "Huyện Con Cuông"
+    },
+    {
+        "id": "R7031883",
+        "name": "Huyện Diễn Châu",
+        "nameLocal": "Huyện Diễn Châu",
+        "countryId": "R1898509",
+        "displayName": "Huyện Diễn Châu"
+    },
+    {
+        "id": "R7033033",
+        "name": "Huyện Đô Lương",
+        "nameLocal": "Huyện Đô Lương",
+        "countryId": "R1898509",
+        "displayName": "Huyện Đô Lương"
+    },
+    {
+        "id": "R7033334",
+        "name": "Huyện Hưng Nguyên",
+        "nameLocal": "Huyện Hưng Nguyên",
+        "countryId": "R1898509",
+        "displayName": "Huyện Hưng Nguyên"
+    },
+    {
+        "id": "R6942988",
+        "name": "Huyện Kỳ Sơn",
+        "nameLocal": "Huyện Kỳ Sơn",
+        "countryId": "R1898509",
+        "displayName": "Huyện Kỳ Sơn"
+    },
+    {
+        "id": "R7033420",
+        "name": "Huyện Nam Đàn",
+        "nameLocal": "Huyện Nam Đàn",
+        "countryId": "R1898509",
+        "displayName": "Huyện Nam Đàn"
+    },
+    {
+        "id": "R7031638",
+        "name": "Huyện Nghĩa Đàn",
+        "nameLocal": "Huyện Nghĩa Đàn",
+        "countryId": "R1898509",
+        "displayName": "Huyện Nghĩa Đàn"
+    },
+    {
+        "id": "R7033219",
+        "name": "Huyện Nghi Lộc",
+        "nameLocal": "Huyện Nghi Lộc",
+        "countryId": "R1898509",
+        "displayName": "Huyện Nghi Lộc"
+    },
+    {
+        "id": "R7016300",
+        "name": "Huyện Quế Phong",
+        "nameLocal": "Huyện Quế Phong",
+        "countryId": "R1898509",
+        "displayName": "Huyện Quế Phong"
+    },
+    {
+        "id": "R7016510",
+        "name": "Huyện Quỳ Châu",
+        "nameLocal": "Huyện Quỳ Châu",
+        "countryId": "R1898509",
+        "displayName": "Huyện Quỳ Châu"
+    },
+    {
+        "id": "R7031576",
+        "name": "Huyện Quỳ Hợp",
+        "nameLocal": "Huyện Quỳ Hợp",
+        "countryId": "R1898509",
+        "displayName": "Huyện Quỳ Hợp"
+    },
+    {
+        "id": "R7031745",
+        "name": "Huyện Quỳnh Lưu",
+        "nameLocal": "Huyện Quỳnh Lưu",
+        "countryId": "R1898509",
+        "displayName": "Huyện Quỳnh Lưu"
+    },
+    {
+        "id": "R7031602",
+        "name": "Huyện Tân Kỳ",
+        "nameLocal": "Huyện Tân Kỳ",
+        "countryId": "R1898509",
+        "displayName": "Huyện Tân Kỳ"
+    },
+    {
+        "id": "R7033530",
+        "name": "Huyện Thanh Chương",
+        "nameLocal": "Huyện Thanh Chương",
+        "countryId": "R1898509",
+        "displayName": "Huyện Thanh Chương"
+    },
+    {
+        "id": "R7014438",
+        "name": "Huyện Tương Dương",
+        "nameLocal": "Huyện Tương Dương",
+        "countryId": "R1898509",
+        "displayName": "Huyện Tương Dương"
+    },
+    {
+        "id": "R7032033",
+        "name": "Huyện Yên Thành",
+        "nameLocal": "Huyện Yên Thành",
+        "countryId": "R1898509",
+        "displayName": "Huyện Yên Thành"
+    },
+    {
+        "id": "R7033300",
+        "name": "Thành Phố Vinh",
+        "nameLocal": "Thành Phố Vinh",
+        "countryId": "R1898509",
+        "displayName": "Thành Phố Vinh"
+    },
+    {
+        "id": "R7033218",
+        "name": "Thị Xã Cửa Lò",
+        "nameLocal": "Thị Xã Cửa Lò",
+        "countryId": "R1898509",
+        "displayName": "Thị Xã Cửa Lò"
+    },
+    {
+        "id": "R7031744",
+        "name": "Thị xã Hoàng Mai",
+        "nameLocal": "Thị xã Hoàng Mai",
+        "countryId": "R1898509",
+        "displayName": "Thị xã Hoàng Mai"
+    },
+    {
+        "id": "R7031698",
+        "name": "Thị Xã Thái Hòa",
+        "nameLocal": "Thị Xã Thái Hòa",
+        "countryId": "R1898509",
+        "displayName": "Thị Xã Thái Hòa"
+    },
+    {
+        "id": "R7126514",
+        "name": "Huyện Gia Viễn",
+        "nameLocal": "Huyện Gia Viễn",
+        "countryId": "R1900963",
+        "displayName": "Huyện Gia Viễn"
+    },
+    {
+        "id": "R80000022",
+        "name": "Huyện Hoa Lư",
+        "nameLocal": "Huyện Hoa Lư",
+        "countryId": "R1900963",
+        "displayName": "Huyện Hoa Lư"
+    },
+    {
+        "id": "R2150355",
+        "name": "Huyện Kim Sơn",
+        "nameLocal": "Huyện Kim Sơn",
+        "countryId": "R1900963",
+        "displayName": "Huyện Kim Sơn"
+    },
+    {
+        "id": "R7126377",
+        "name": "Huyện Nho Quan",
+        "nameLocal": "Huyện Nho Quan",
+        "countryId": "R1900963",
+        "displayName": "Huyện Nho Quan"
+    },
+    {
+        "id": "R7126351",
+        "name": "Huyện Yên Khánh",
+        "nameLocal": "Huyện Yên Khánh",
+        "countryId": "R1900963",
+        "displayName": "Huyện Yên Khánh"
+    },
+    {
+        "id": "R7126361",
+        "name": "Huyện Yên Mô",
+        "nameLocal": "Huyện Yên Mô",
+        "countryId": "R1900963",
+        "displayName": "Huyện Yên Mô"
+    },
+    {
+        "id": "R7126510",
+        "name": "Thành Phố Ninh Bình",
+        "nameLocal": "Thành Phố Ninh Bình",
+        "countryId": "R1900963",
+        "displayName": "Thành Phố Ninh Bình"
+    },
+    {
+        "id": "R80000021",
+        "name": "Thành Phố Tam Điệp",
+        "nameLocal": "Thành Phố Tam Điệp",
+        "countryId": "R1900963",
+        "displayName": "Thành Phố Tam Điệp"
+    },
+    {
+        "id": "R7082746",
+        "name": "Huyện Bác Ái",
+        "nameLocal": "Huyện Bác Ái",
+        "countryId": "R1886159",
+        "displayName": "Huyện Bác Ái"
+    },
+    {
+        "id": "R7082988",
+        "name": "Huyện Ninh Hải",
+        "nameLocal": "Huyện Ninh Hải",
+        "countryId": "R1886159",
+        "displayName": "Huyện Ninh Hải"
+    },
+    {
+        "id": "R7082679",
+        "name": "Huyện Ninh Phước",
+        "nameLocal": "Huyện Ninh Phước",
+        "countryId": "R1886159",
+        "displayName": "Huyện Ninh Phước"
+    },
+    {
+        "id": "R7082711",
+        "name": "Huyện Ninh Sơn",
+        "nameLocal": "Huyện Ninh Sơn",
+        "countryId": "R1886159",
+        "displayName": "Huyện Ninh Sơn"
+    },
+    {
+        "id": "R7082949",
+        "name": "Huyện Thuận Bắc",
+        "nameLocal": "Huyện Thuận Bắc",
+        "countryId": "R1886159",
+        "displayName": "Huyện Thuận Bắc"
+    },
+    {
+        "id": "R7082628",
+        "name": "Huyện Thuận Nam",
+        "nameLocal": "Huyện Thuận Nam",
+        "countryId": "R1886159",
+        "displayName": "Huyện Thuận Nam"
+    },
+    {
+        "id": "R7082775",
+        "name": "Thành Phố Phan Rang-Tháp Chàm",
+        "nameLocal": "Thành Phố Phan Rang-Tháp Chàm",
+        "countryId": "R1886159",
+        "displayName": "Thành Phố Phan Rang-Tháp Chàm"
+    },
+    {
+        "id": "R7117259",
+        "name": "Huyện Cẩm Khê",
+        "nameLocal": "Huyện Cẩm Khê",
+        "countryId": "R1902930",
+        "displayName": "Huyện Cẩm Khê"
+    },
+    {
+        "id": "R7117246",
+        "name": "Huyện Đoan Hùng",
+        "nameLocal": "Huyện Đoan Hùng",
+        "countryId": "R1902930",
+        "displayName": "Huyện Đoan Hùng"
+    },
+    {
+        "id": "R7117249",
+        "name": "Huyện Hạ Hòa",
+        "nameLocal": "Huyện Hạ Hòa",
+        "countryId": "R1902930",
+        "displayName": "Huyện Hạ Hòa"
+    },
+    {
+        "id": "R7117448",
+        "name": "Huyện Lâm Thao",
+        "nameLocal": "Huyện Lâm Thao",
+        "countryId": "R1902930",
+        "displayName": "Huyện Lâm Thao"
+    },
+    {
+        "id": "R7118214",
+        "name": "Huyện Phù Ninh",
+        "nameLocal": "Huyện Phù Ninh",
+        "countryId": "R1902930",
+        "displayName": "Huyện Phù Ninh"
+    },
+    {
+        "id": "R7117400",
+        "name": "Huyện Tam Nông",
+        "nameLocal": "Huyện Tam Nông",
+        "countryId": "R1902930",
+        "displayName": "Huyện Tam Nông"
+    },
+    {
+        "id": "R7117384",
+        "name": "Huyện Tân Sơn",
+        "nameLocal": "Huyện Tân Sơn",
+        "countryId": "R1902930",
+        "displayName": "Huyện Tân Sơn"
+    },
+    {
+        "id": "R7118054",
+        "name": "Huyện Thanh Ba",
+        "nameLocal": "Huyện Thanh Ba",
+        "countryId": "R1902930",
+        "displayName": "Huyện Thanh Ba"
+    },
+    {
+        "id": "R7117380",
+        "name": "Huyện Thanh Sơn",
+        "nameLocal": "Huyện Thanh Sơn",
+        "countryId": "R1902930",
+        "displayName": "Huyện Thanh Sơn"
+    },
+    {
+        "id": "R7117393",
+        "name": "Huyện Thanh Thủy",
+        "nameLocal": "Huyện Thanh Thủy",
+        "countryId": "R1902930",
+        "displayName": "Huyện Thanh Thủy"
+    },
+    {
+        "id": "R7117326",
+        "name": "Huyện Yên Lập",
+        "nameLocal": "Huyện Yên Lập",
+        "countryId": "R1902930",
+        "displayName": "Huyện Yên Lập"
+    },
+    {
+        "id": "R7118215",
+        "name": "Thành Phố Việt Trì",
+        "nameLocal": "Thành Phố Việt Trì",
+        "countryId": "R1902930",
+        "displayName": "Thành Phố Việt Trì"
+    },
+    {
+        "id": "R7118146",
+        "name": "Thị Xã Phú Thọ",
+        "nameLocal": "Thị Xã Phú Thọ",
+        "countryId": "R1902930",
+        "displayName": "Thị Xã Phú Thọ"
+    },
+    {
+        "id": "R7078051",
+        "name": "Huyện Đông Hòa",
+        "nameLocal": "Huyện Đông Hòa",
+        "countryId": "R1889204",
+        "displayName": "Huyện Đông Hòa"
+    },
+    {
+        "id": "R7078123",
+        "name": "Huyện Đồng Xuân",
+        "nameLocal": "Huyện Đồng Xuân",
+        "countryId": "R1889204",
+        "displayName": "Huyện Đồng Xuân"
+    },
+    {
+        "id": "R7078259",
+        "name": "Huyện Phú Hoà",
+        "nameLocal": "Huyện Phú Hoà",
+        "countryId": "R1889204",
+        "displayName": "Huyện Phú Hoà"
+    },
+    {
+        "id": "R7077719",
+        "name": "Huyện Sông Hinh",
+        "nameLocal": "Huyện Sông Hinh",
+        "countryId": "R1889204",
+        "displayName": "Huyện Sông Hinh"
+    },
+    {
+        "id": "R7078106",
+        "name": "Huyện Sơn Hoà",
+        "nameLocal": "Huyện Sơn Hoà",
+        "countryId": "R1889204",
+        "displayName": "Huyện Sơn Hoà"
+    },
+    {
+        "id": "R7078078",
+        "name": "Huyện Tây Hòa",
+        "nameLocal": "Huyện Tây Hòa",
+        "countryId": "R1889204",
+        "displayName": "Huyện Tây Hòa"
+    },
+    {
+        "id": "R7078296",
+        "name": "Huyện Tuy An",
+        "nameLocal": "Huyện Tuy An",
+        "countryId": "R1889204",
+        "displayName": "Huyện Tuy An"
+    },
+    {
+        "id": "R7078287",
+        "name": "Thành Phố Tuy Hòa",
+        "nameLocal": "Thành Phố Tuy Hòa",
+        "countryId": "R1889204",
+        "displayName": "Thành Phố Tuy Hòa"
+    },
+    {
+        "id": "R7078174",
+        "name": "Thị Xã Sông Cầu",
+        "nameLocal": "Thị Xã Sông Cầu",
+        "countryId": "R1889204",
+        "displayName": "Thị Xã Sông Cầu"
+    },
+    {
+        "id": "R7038730",
+        "name": "Huyện Bố Trạch",
+        "nameLocal": "Huyện Bố Trạch",
+        "countryId": "R1896050",
+        "displayName": "Huyện Bố Trạch"
+    },
+    {
+        "id": "R7041485",
+        "name": "Huyện Lệ Thủy",
+        "nameLocal": "Huyện Lệ Thủy",
+        "countryId": "R1896050",
+        "displayName": "Huyện Lệ Thủy"
+    },
+    {
+        "id": "R7040317",
+        "name": "Huyện Minh Hóa",
+        "nameLocal": "Huyện Minh Hóa",
+        "countryId": "R1896050",
+        "displayName": "Huyện Minh Hóa"
+    },
+    {
+        "id": "R7040960",
+        "name": "Huyện Quảng Ninh",
+        "nameLocal": "Huyện Quảng Ninh",
+        "countryId": "R1896050",
+        "displayName": "Huyện Quảng Ninh"
+    },
+    {
+        "id": "R7038220",
+        "name": "Huyện Quảng Trạch",
+        "nameLocal": "Huyện Quảng Trạch",
+        "countryId": "R1896050",
+        "displayName": "Huyện Quảng Trạch"
+    },
+    {
+        "id": "R7040485",
+        "name": "Huyện Tuyên Hóa",
+        "nameLocal": "Huyện Tuyên Hóa",
+        "countryId": "R1896050",
+        "displayName": "Huyện Tuyên Hóa"
+    },
+    {
+        "id": "R7040812",
+        "name": "Thành Phố Đồng Hới",
+        "nameLocal": "Thành Phố Đồng Hới",
+        "countryId": "R1896050",
+        "displayName": "Thành Phố Đồng Hới"
+    },
+    {
+        "id": "R7037928",
+        "name": "Thị Xã Ba Đồn",
+        "nameLocal": "Thị Xã Ba Đồn",
+        "countryId": "R1896050",
+        "displayName": "Thị Xã Ba Đồn"
+    },
+    {
+        "id": "R7060433",
+        "name": "Huyện Bắc Trà My",
+        "nameLocal": "Huyện Bắc Trà My",
+        "countryId": "R1891352",
+        "displayName": "Huyện Bắc Trà My"
+    },
+    {
+        "id": "R7062071",
+        "name": "Huyện Duy Xuyên",
+        "nameLocal": "Huyện Duy Xuyên",
+        "countryId": "R1891352",
+        "displayName": "Huyện Duy Xuyên"
+    },
+    {
+        "id": "R7059126",
+        "name": "Huyện Đại Lộc",
+        "nameLocal": "Huyện Đại Lộc",
+        "countryId": "R1891352",
+        "displayName": "Huyện Đại Lộc"
+    },
+    {
+        "id": "R7058907",
+        "name": "Huyện Đông Giang",
+        "nameLocal": "Huyện Đông Giang",
+        "countryId": "R1891352",
+        "displayName": "Huyện Đông Giang"
+    },
+    {
+        "id": "R7061957",
+        "name": "Huyện Hiệp Đức",
+        "nameLocal": "Huyện Hiệp Đức",
+        "countryId": "R1891352",
+        "displayName": "Huyện Hiệp Đức"
+    },
+    {
+        "id": "R7060031",
+        "name": "Huyện Nam Giang",
+        "nameLocal": "Huyện Nam Giang",
+        "countryId": "R1891352",
+        "displayName": "Huyện Nam Giang"
+    },
+    {
+        "id": "R7060408",
+        "name": "Huyện Nam Trà My",
+        "nameLocal": "Huyện Nam Trà My",
+        "countryId": "R1891352",
+        "displayName": "Huyện Nam Trà My"
+    },
+    {
+        "id": "R7062022",
+        "name": "Huyện Nông Sơn",
+        "nameLocal": "Huyện Nông Sơn",
+        "countryId": "R1891352",
+        "displayName": "Huyện Nông Sơn"
+    },
+    {
+        "id": "R7060479",
+        "name": "Huyện Núi Thành",
+        "nameLocal": "Huyện Núi Thành",
+        "countryId": "R1891352",
+        "displayName": "Huyện Núi Thành"
+    },
+    {
+        "id": "R7061515",
+        "name": "Huyện Phú Ninh",
+        "nameLocal": "Huyện Phú Ninh",
+        "countryId": "R1891352",
+        "displayName": "Huyện Phú Ninh"
+    },
+    {
+        "id": "R7060129",
+        "name": "Huyện Phước Sơn",
+        "nameLocal": "Huyện Phước Sơn",
+        "countryId": "R1891352",
+        "displayName": "Huyện Phước Sơn"
+    },
+    {
+        "id": "R7062023",
+        "name": "Huyện Quế Sơn",
+        "nameLocal": "Huyện Quế Sơn",
+        "countryId": "R1891352",
+        "displayName": "Huyện Quế Sơn"
+    },
+    {
+        "id": "R7058857",
+        "name": "Huyện Tây Giang",
+        "nameLocal": "Huyện Tây Giang",
+        "countryId": "R1891352",
+        "displayName": "Huyện Tây Giang"
+    },
+    {
+        "id": "R7062079",
+        "name": "Huyện Thăng Bình",
+        "nameLocal": "Huyện Thăng Bình",
+        "countryId": "R1891352",
+        "displayName": "Huyện Thăng Bình"
+    },
+    {
+        "id": "R7061516",
+        "name": "Huyện Tiên Phước",
+        "nameLocal": "Huyện Tiên Phước",
+        "countryId": "R1891352",
+        "displayName": "Huyện Tiên Phước"
+    },
+    {
+        "id": "R7062047",
+        "name": "Thành Phố Hội An",
+        "nameLocal": "Thành Phố Hội An",
+        "countryId": "R1891352",
+        "displayName": "Thành Phố Hội An"
+    },
+    {
+        "id": "R7061190",
+        "name": "Thành Phố Tam Kỳ",
+        "nameLocal": "Thành Phố Tam Kỳ",
+        "countryId": "R1891352",
+        "displayName": "Thành Phố Tam Kỳ"
+    },
+    {
+        "id": "R7059187",
+        "name": "Thị Xã Điện Bàn",
+        "nameLocal": "Thị Xã Điện Bàn",
+        "countryId": "R1891352",
+        "displayName": "Thị Xã Điện Bàn"
+    },
+    {
+        "id": "R2518220",
+        "name": "Huyện Ba Tơ",
+        "nameLocal": "Huyện Ba Tơ",
+        "countryId": "R1890793",
+        "displayName": "Huyện Ba Tơ"
+    },
+    {
+        "id": "R2518221",
+        "name": "Huyện Bình Sơn",
+        "nameLocal": "Huyện Bình Sơn",
+        "countryId": "R1890793",
+        "displayName": "Huyện Bình Sơn"
+    },
+    {
+        "id": "R2518222",
+        "name": "Huyện Đức Phổ",
+        "nameLocal": "Huyện Đức Phổ",
+        "countryId": "R1890793",
+        "displayName": "Huyện Đức Phổ"
+    },
+    {
+        "id": "R7064276",
+        "name": "Huyện Lý Sơn",
+        "nameLocal": "Huyện Lý Sơn",
+        "countryId": "R1890793",
+        "displayName": "Huyện Lý Sơn"
+    },
+    {
+        "id": "R2518223",
+        "name": "Huyện Minh Long",
+        "nameLocal": "Huyện Minh Long",
+        "countryId": "R1890793",
+        "displayName": "Huyện Minh Long"
+    },
+    {
+        "id": "R2518224",
+        "name": "Huyện Mộ Đức",
+        "nameLocal": "Huyện Mộ Đức",
+        "countryId": "R1890793",
+        "displayName": "Huyện Mộ Đức"
+    },
+    {
+        "id": "R2518225",
+        "name": "Huyện Nghĩa Hành",
+        "nameLocal": "Huyện Nghĩa Hành",
+        "countryId": "R1890793",
+        "displayName": "Huyện Nghĩa Hành"
+    },
+    {
+        "id": "R2518227",
+        "name": "Huyện Sơn Hà",
+        "nameLocal": "Huyện Sơn Hà",
+        "countryId": "R1890793",
+        "displayName": "Huyện Sơn Hà"
+    },
+    {
+        "id": "R2518228",
+        "name": "Huyện Sơn Tây",
+        "nameLocal": "Huyện Sơn Tây",
+        "countryId": "R1890793",
+        "displayName": "Huyện Sơn Tây"
+    },
+    {
+        "id": "R2518229",
+        "name": "Huyện Sơn Tịnh",
+        "nameLocal": "Huyện Sơn Tịnh",
+        "countryId": "R1890793",
+        "displayName": "Huyện Sơn Tịnh"
+    },
+    {
+        "id": "R2518230",
+        "name": "Huyện Tây Trà",
+        "nameLocal": "Huyện Tây Trà",
+        "countryId": "R1890793",
+        "displayName": "Huyện Tây Trà"
+    },
+    {
+        "id": "R2518231",
+        "name": "Huyện Trà Bồng",
+        "nameLocal": "Huyện Trà Bồng",
+        "countryId": "R1890793",
+        "displayName": "Huyện Trà Bồng"
+    },
+    {
+        "id": "R2518232",
+        "name": "Huyện Tư Nghĩa",
+        "nameLocal": "Huyện Tư Nghĩa",
+        "countryId": "R1890793",
+        "displayName": "Huyện Tư Nghĩa"
+    },
+    {
+        "id": "R2518226",
+        "name": "Thành Phố Quảng Ngãi",
+        "nameLocal": "Thành Phố Quảng Ngãi",
+        "countryId": "R1890793",
+        "displayName": "Thành Phố Quảng Ngãi"
+    },
+    {
+        "id": "R7133835",
+        "name": "Huyện Ba Chẽ",
+        "nameLocal": "Huyện Ba Chẽ",
+        "countryId": "R1902947",
+        "displayName": "Huyện Ba Chẽ"
+    },
+    {
+        "id": "R6912913",
+        "name": "Huyện Bình Liêu",
+        "nameLocal": "Huyện Bình Liêu",
+        "countryId": "R1902947",
+        "displayName": "Huyện Bình Liêu"
+    },
+    {
+        "id": "R7134111",
+        "name": "Huyện Cô Tô",
+        "nameLocal": "Huyện Cô Tô",
+        "countryId": "R1902947",
+        "displayName": "Huyện Cô Tô"
+    },
+    {
+        "id": "R6913418",
+        "name": "Huyện Đầm Hà",
+        "nameLocal": "Huyện Đầm Hà",
+        "countryId": "R1902947",
+        "displayName": "Huyện Đầm Hà"
+    },
+    {
+        "id": "R6912155",
+        "name": "Huyện Hải Hà",
+        "nameLocal": "Huyện Hải Hà",
+        "countryId": "R1902947",
+        "displayName": "Huyện Hải Hà"
+    },
+    {
+        "id": "R6913068",
+        "name": "Huyện Tiên Yên",
+        "nameLocal": "Huyện Tiên Yên",
+        "countryId": "R1902947",
+        "displayName": "Huyện Tiên Yên"
+    },
+    {
+        "id": "R7134112",
+        "name": "Huyện Vân Đồn",
+        "nameLocal": "Huyện Vân Đồn",
+        "countryId": "R1902947",
+        "displayName": "Huyện Vân Đồn"
+    },
+    {
+        "id": "R7133870",
+        "name": "Thành Phố Cẩm Phả",
+        "nameLocal": "Thành Phố Cẩm Phả",
+        "countryId": "R1902947",
+        "displayName": "Thành Phố Cẩm Phả"
+    },
+    {
+        "id": "R7133707",
+        "name": "Thành Phố Hạ Long",
+        "nameLocal": "Thành Phố Hạ Long",
+        "countryId": "R1902947",
+        "displayName": "Thành Phố Hạ Long"
+    },
+    {
+        "id": "R6911714",
+        "name": "Thành Phố Móng Cái",
+        "nameLocal": "Thành Phố Móng Cái",
+        "countryId": "R1902947",
+        "displayName": "Thành Phố Móng Cái"
+    },
+    {
+        "id": "R6908463",
+        "name": "Thành Phố Uông Bí",
+        "nameLocal": "Thành Phố Uông Bí",
+        "countryId": "R1902947",
+        "displayName": "Thành Phố Uông Bí"
+    },
+    {
+        "id": "R7133660",
+        "name": "Thị Xã Đông Triều",
+        "nameLocal": "Thị Xã Đông Triều",
+        "countryId": "R1902947",
+        "displayName": "Thị Xã Đông Triều"
+    },
+    {
+        "id": "R7133693",
+        "name": "Thị Xã Quảng Yên",
+        "nameLocal": "Thị Xã Quảng Yên",
+        "countryId": "R1902947",
+        "displayName": "Thị Xã Quảng Yên"
+    },
+    {
+        "id": "R7047285",
+        "name": "Huyện Cam Lộ",
+        "nameLocal": "Huyện Cam Lộ",
+        "countryId": "R1895630",
+        "displayName": "Huyện Cam Lộ"
+    },
+    {
+        "id": "R7045696",
+        "name": "Huyện Cồn Cỏ",
+        "nameLocal": "Huyện Cồn Cỏ",
+        "countryId": "R1895630",
+        "displayName": "Huyện Cồn Cỏ"
+    },
+    {
+        "id": "R7046002",
+        "name": "Huyện Đakrông",
+        "nameLocal": "Huyện Đakrông",
+        "countryId": "R1895630",
+        "displayName": "Huyện Đakrông"
+    },
+    {
+        "id": "R7046190",
+        "name": "Huyện Gio Linh",
+        "nameLocal": "Huyện Gio Linh",
+        "countryId": "R1895630",
+        "displayName": "Huyện Gio Linh"
+    },
+    {
+        "id": "R7048544",
+        "name": "Huyện Hải Lăng",
+        "nameLocal": "Huyện Hải Lăng",
+        "countryId": "R1895630",
+        "displayName": "Huyện Hải Lăng"
+    },
+    {
+        "id": "R7045697",
+        "name": "Huyện Hướng Hoá",
+        "nameLocal": "Huyện Hướng Hoá",
+        "countryId": "R1895630",
+        "displayName": "Huyện Hướng Hoá"
+    },
+    {
+        "id": "R7047501",
+        "name": "Huyện Triệu Phong",
+        "nameLocal": "Huyện Triệu Phong",
+        "countryId": "R1895630",
+        "displayName": "Huyện Triệu Phong"
+    },
+    {
+        "id": "R7046123",
+        "name": "Huyện Vĩnh Linh",
+        "nameLocal": "Huyện Vĩnh Linh",
+        "countryId": "R1895630",
+        "displayName": "Huyện Vĩnh Linh"
+    },
+    {
+        "id": "R7047277",
+        "name": "Thành Phố Đông Hà",
+        "nameLocal": "Thành Phố Đông Hà",
+        "countryId": "R1895630",
+        "displayName": "Thành Phố Đông Hà"
+    },
+    {
+        "id": "R7047500",
+        "name": "Thị Xã Quảng Trị",
+        "nameLocal": "Thị Xã Quảng Trị",
+        "countryId": "R1895630",
+        "displayName": "Thị Xã Quảng Trị"
+    }, {
+        "id": "R7149291",
+        "name": "Huyện Châu Thành",
+        "nameLocal": "Huyện Châu Thành",
+        "countryId": "R1873632",
+        "displayName": "Huyện Châu Thành"
+    },
+    {
+        "id": "R7149134",
+        "name": "Huyện Cù Lao Dung",
+        "nameLocal": "Huyện Cù Lao Dung",
+        "countryId": "R1873632",
+        "displayName": "Huyện Cù Lao Dung"
+    },
+    {
+        "id": "R7149298",
+        "name": "Huyện Kế Sách",
+        "nameLocal": "Huyện Kế Sách",
+        "countryId": "R1873632",
+        "displayName": "Huyện Kế Sách"
+    },
+    {
+        "id": "R7149169",
+        "name": "Huyện Long Phú",
+        "nameLocal": "Huyện Long Phú",
+        "countryId": "R1873632",
+        "displayName": "Huyện Long Phú"
+    },
+    {
+        "id": "R7149275",
+        "name": "Huyện Mỹ Tú",
+        "nameLocal": "Huyện Mỹ Tú",
+        "countryId": "R1873632",
+        "displayName": "Huyện Mỹ Tú"
+    },
+    {
+        "id": "R7149198",
+        "name": "Huyện Mỹ Xuyên",
+        "nameLocal": "Huyện Mỹ Xuyên",
+        "countryId": "R1873632",
+        "displayName": "Huyện Mỹ Xuyên"
+    },
+    {
+        "id": "R7149250",
+        "name": "Huyện Thạnh Trị",
+        "nameLocal": "Huyện Thạnh Trị",
+        "countryId": "R1873632",
+        "displayName": "Huyện Thạnh Trị"
+    },
+    {
+        "id": "R7149407",
+        "name": "Huyện Trần Đề",
+        "nameLocal": "Huyện Trần Đề",
+        "countryId": "R1873632",
+        "displayName": "Huyện Trần Đề"
+    },
+    {
+        "id": "R7149178",
+        "name": "Thành Phố Sóc Trăng",
+        "nameLocal": "Thành Phố Sóc Trăng",
+        "countryId": "R1873632",
+        "displayName": "Thành Phố Sóc Trăng"
+    },
+    {
+        "id": "R7149124",
+        "name": "Thị Xã Ngã Năm",
+        "nameLocal": "Thị Xã Ngã Năm",
+        "countryId": "R1873632",
+        "displayName": "Thị Xã Ngã Năm"
+    },
+    {
+        "id": "R7149143",
+        "name": "Thị Xã Vĩnh Châu",
+        "nameLocal": "Thị Xã Vĩnh Châu",
+        "countryId": "R1873632",
+        "displayName": "Thị Xã Vĩnh Châu"
+    },
+    {
+        "id": "R7120751",
+        "name": "Huyện Bắc Yên",
+        "nameLocal": "Huyện Bắc Yên",
+        "countryId": "R1903291",
+        "displayName": "Huyện Bắc Yên"
+    },
+    {
+        "id": "R7120938",
+        "name": "Huyện Mai Sơn",
+        "nameLocal": "Huyện Mai Sơn",
+        "countryId": "R1903291",
+        "displayName": "Huyện Mai Sơn"
+    },
+    {
+        "id": "R7120760",
+        "name": "Huyện Mộc Châu",
+        "nameLocal": "Huyện Mộc Châu",
+        "countryId": "R1903291",
+        "displayName": "Huyện Mộc Châu"
+    },
+    {
+        "id": "R7120730",
+        "name": "Huyện Mường La",
+        "nameLocal": "Huyện Mường La",
+        "countryId": "R1903291",
+        "displayName": "Huyện Mường La"
+    },
+    {
+        "id": "R6925458",
+        "name": "Huyện Phù Yên",
+        "nameLocal": "Huyện Phù Yên",
+        "countryId": "R1903291",
+        "displayName": "Huyện Phù Yên"
+    },
+    {
+        "id": "R7120726",
+        "name": "Huyện Quỳnh Nhai",
+        "nameLocal": "Huyện Quỳnh Nhai",
+        "countryId": "R1903291",
+        "displayName": "Huyện Quỳnh Nhai"
+    },
+    {
+        "id": "R6932096",
+        "name": "Huyện Sông Mã",
+        "nameLocal": "Huyện Sông Mã",
+        "countryId": "R1903291",
+        "displayName": "Huyện Sông Mã"
+    },
+    {
+        "id": "R6931773",
+        "name": "Huyện Sốp Cộp",
+        "nameLocal": "Huyện Sốp Cộp",
+        "countryId": "R1903291",
+        "displayName": "Huyện Sốp Cộp"
+    },
+    {
+        "id": "R6932207",
+        "name": "Huyện Thuận Châu",
+        "nameLocal": "Huyện Thuận Châu",
+        "countryId": "R1903291",
+        "displayName": "Huyện Thuận Châu"
+    },
+    {
+        "id": "R7120939",
+        "name": "Huyện Vân Hồ",
+        "nameLocal": "Huyện Vân Hồ",
+        "countryId": "R1903291",
+        "displayName": "Huyện Vân Hồ"
+    },
+    {
+        "id": "R7120763",
+        "name": "Huyện Yên Châu",
+        "nameLocal": "Huyện Yên Châu",
+        "countryId": "R1903291",
+        "displayName": "Huyện Yên Châu"
+    },
+    {
+        "id": "R6932323",
+        "name": "Thành Phố Sơn La",
+        "nameLocal": "Thành Phố Sơn La",
+        "countryId": "R1903291",
+        "displayName": "Thành Phố Sơn La"
+    },
+    {
+        "id": "R7093802",
+        "name": "Huyện Bến Cầu",
+        "nameLocal": "Huyện Bến Cầu",
+        "countryId": "R1898961",
+        "displayName": "Huyện Bến Cầu"
+    },
+    {
+        "id": "R7093746",
+        "name": "Huyện Châu Thành",
+        "nameLocal": "Huyện Châu Thành",
+        "countryId": "R1898961",
+        "displayName": "Huyện Châu Thành"
+    },
+    {
+        "id": "R7093996",
+        "name": "Huyện Dương Minh Châu",
+        "nameLocal": "Huyện Dương Minh Châu",
+        "countryId": "R1898961",
+        "displayName": "Huyện Dương Minh Châu"
+    },
+    {
+        "id": "R7093867",
+        "name": "Huyện Gò Dầu",
+        "nameLocal": "Huyện Gò Dầu",
+        "countryId": "R1898961",
+        "displayName": "Huyện Gò Dầu"
+    },
+    {
+        "id": "R7093888",
+        "name": "Huyện Hòa Thành",
+        "nameLocal": "Huyện Hòa Thành",
+        "countryId": "R1898961",
+        "displayName": "Huyện Hòa Thành"
+    },
+    {
+        "id": "R7093581",
+        "name": "Huyện Tân Biên",
+        "nameLocal": "Huyện Tân Biên",
+        "countryId": "R1898961",
+        "displayName": "Huyện Tân Biên"
+    },
+    {
+        "id": "R7093999",
+        "name": "Huyện Tân Châu",
+        "nameLocal": "Huyện Tân Châu",
+        "countryId": "R1898961",
+        "displayName": "Huyện Tân Châu"
+    },
+    {
+        "id": "R7093825",
+        "name": "Huyện Trảng Bàng",
+        "nameLocal": "Huyện Trảng Bàng",
+        "countryId": "R1898961",
+        "displayName": "Huyện Trảng Bàng"
+    },
+    {
+        "id": "R7093930",
+        "name": "Thành Phố Tây Ninh",
+        "nameLocal": "Thành Phố Tây Ninh",
+        "countryId": "R1898961",
+        "displayName": "Thành Phố Tây Ninh"
+    },
+    {
+        "id": "R7128529",
+        "name": "Huyện Đông Hưng",
+        "nameLocal": "Huyện Đông Hưng",
+        "countryId": "R1901019",
+        "displayName": "Huyện Đông Hưng"
+    },
+    {
+        "id": "R7128442",
+        "name": "Huyện Hưng Hà",
+        "nameLocal": "Huyện Hưng Hà",
+        "countryId": "R1901019",
+        "displayName": "Huyện Hưng Hà"
+    },
+    {
+        "id": "R7128390",
+        "name": "Huyện Kiến Xương",
+        "nameLocal": "Huyện Kiến Xương",
+        "countryId": "R1901019",
+        "displayName": "Huyện Kiến Xương"
+    },
+    {
+        "id": "R7128528",
+        "name": "Huyện Quỳnh Phụ",
+        "nameLocal": "Huyện Quỳnh Phụ",
+        "countryId": "R1901019",
+        "displayName": "Huyện Quỳnh Phụ"
+    },
+    {
+        "id": "R7128385",
+        "name": "Huyện Thái Thụy",
+        "nameLocal": "Huyện Thái Thụy",
+        "countryId": "R1901019",
+        "displayName": "Huyện Thái Thụy"
+    },
+    {
+        "id": "R7128372",
+        "name": "Huyện Tiền Hải",
+        "nameLocal": "Huyện Tiền Hải",
+        "countryId": "R1901019",
+        "displayName": "Huyện Tiền Hải"
+    },
+    {
+        "id": "R7128399",
+        "name": "Huyện Vũ Thư",
+        "nameLocal": "Huyện Vũ Thư",
+        "countryId": "R1901019",
+        "displayName": "Huyện Vũ Thư"
+    },
+    {
+        "id": "R7128397",
+        "name": "Thành Phố Thái Bình",
+        "nameLocal": "Thành Phố Thái Bình",
+        "countryId": "R1901019",
+        "displayName": "Thành Phố Thái Bình"
+    },
+    {
+        "id": "R7113512",
+        "name": "Huyện Đại Từ",
+        "nameLocal": "Huyện Đại Từ",
+        "countryId": "R1902967",
+        "displayName": "Huyện Đại Từ"
+    },
+    {
+        "id": "R7113525",
+        "name": "Huyện Định Hóa",
+        "nameLocal": "Huyện Định Hóa",
+        "countryId": "R1902967",
+        "displayName": "Huyện Định Hóa"
+    },
+    {
+        "id": "R7113357",
+        "name": "Huyện Đồng Hỷ",
+        "nameLocal": "Huyện Đồng Hỷ",
+        "countryId": "R1902967",
+        "displayName": "Huyện Đồng Hỷ"
+    },
+    {
+        "id": "R7113374",
+        "name": "Huyện Phú Bình",
+        "nameLocal": "Huyện Phú Bình",
+        "countryId": "R1902967",
+        "displayName": "Huyện Phú Bình"
+    },
+    {
+        "id": "R7113535",
+        "name": "Huyện Phú Lương",
+        "nameLocal": "Huyện Phú Lương",
+        "countryId": "R1902967",
+        "displayName": "Huyện Phú Lương"
+    },
+    {
+        "id": "R7113083",
+        "name": "Huyện Võ Nhai",
+        "nameLocal": "Huyện Võ Nhai",
+        "countryId": "R1902967",
+        "displayName": "Huyện Võ Nhai"
+    },
+    {
+        "id": "R7113584",
+        "name": "Thành Phố Sông Công",
+        "nameLocal": "Thành Phố Sông Công",
+        "countryId": "R1902967",
+        "displayName": "Thành Phố Sông Công"
+    },
+    {
+        "id": "R7113554",
+        "name": "Thành Phố Thái Nguyên",
+        "nameLocal": "Thành Phố Thái Nguyên",
+        "countryId": "R1902967",
+        "displayName": "Thành Phố Thái Nguyên"
+    },
+    {
+        "id": "R7113784",
+        "name": "Thị Xã Phổ Yên",
+        "nameLocal": "Thị Xã Phổ Yên",
+        "countryId": "R1902967",
+        "displayName": "Thị Xã Phổ Yên"
+    },
+    {
+        "id": "R7125588",
+        "name": "Huyện Bá Thước",
+        "nameLocal": "Huyện Bá Thước",
+        "countryId": "R1898590",
+        "displayName": "Huyện Bá Thước"
+    },
+    {
+        "id": "R7125491",
+        "name": "Huyện Cẩm Thủy",
+        "nameLocal": "Huyện Cẩm Thủy",
+        "countryId": "R1898590",
+        "displayName": "Huyện Cẩm Thủy"
+    },
+    {
+        "id": "R7026374",
+        "name": "Huyện Đông Sơn",
+        "nameLocal": "Huyện Đông Sơn",
+        "countryId": "R1898590",
+        "displayName": "Huyện Đông Sơn"
+    },
+    {
+        "id": "R7125712",
+        "name": "Huyện Hà Trung",
+        "nameLocal": "Huyện Hà Trung",
+        "countryId": "R1898590",
+        "displayName": "Huyện Hà Trung"
+    },
+    {
+        "id": "R7124564",
+        "name": "Huyện Hậu Lộc",
+        "nameLocal": "Huyện Hậu Lộc",
+        "countryId": "R1898590",
+        "displayName": "Huyện Hậu Lộc"
+    },
+    {
+        "id": "R7124433",
+        "name": "Huyện Hoằng Hóa",
+        "nameLocal": "Huyện Hoằng Hóa",
+        "countryId": "R1898590",
+        "displayName": "Huyện Hoằng Hóa"
+    },
+    {
+        "id": "R7018411",
+        "name": "Huyện Lang Chánh",
+        "nameLocal": "Huyện Lang Chánh",
+        "countryId": "R1898590",
+        "displayName": "Huyện Lang Chánh"
+    },
+    {
+        "id": "R6938785",
+        "name": "Huyện Mường Lát",
+        "nameLocal": "Huyện Mường Lát",
+        "countryId": "R1898590",
+        "displayName": "Huyện Mường Lát"
+    },
+    {
+        "id": "R7125737",
+        "name": "Huyện Nga Sơn",
+        "nameLocal": "Huyện Nga Sơn",
+        "countryId": "R1898590",
+        "displayName": "Huyện Nga Sơn"
+    },
+    {
+        "id": "R7125494",
+        "name": "Huyện Ngọc Lặc",
+        "nameLocal": "Huyện Ngọc Lặc",
+        "countryId": "R1898590",
+        "displayName": "Huyện Ngọc Lặc"
+    },
+    {
+        "id": "R7022471",
+        "name": "Huyện Như Thanh",
+        "nameLocal": "Huyện Như Thanh",
+        "countryId": "R1898590",
+        "displayName": "Huyện Như Thanh"
+    },
+    {
+        "id": "R7021430",
+        "name": "Huyện Như Xuân",
+        "nameLocal": "Huyện Như Xuân",
+        "countryId": "R1898590",
+        "displayName": "Huyện Như Xuân"
+    },
+    {
+        "id": "R7025174",
+        "name": "Huyện Nông Cống",
+        "nameLocal": "Huyện Nông Cống",
+        "countryId": "R1898590",
+        "displayName": "Huyện Nông Cống"
+    },
+    {
+        "id": "R7026159",
+        "name": "Huyện Quảng Xương",
+        "nameLocal": "Huyện Quảng Xương",
+        "countryId": "R1898590",
+        "displayName": "Huyện Quảng Xương"
+    },
+    {
+        "id": "R6939707",
+        "name": "Huyện Quan Hóa",
+        "nameLocal": "Huyện Quan Hóa",
+        "countryId": "R1898590",
+        "displayName": "Huyện Quan Hóa"
+    },
+    {
+        "id": "R6938983",
+        "name": "Huyện Quan Sơn",
+        "nameLocal": "Huyện Quan Sơn",
+        "countryId": "R1898590",
+        "displayName": "Huyện Quan Sơn"
+    },
+    {
+        "id": "R7125608",
+        "name": "Huyện Thạch Thành",
+        "nameLocal": "Huyện Thạch Thành",
+        "countryId": "R1898590",
+        "displayName": "Huyện Thạch Thành"
+    },
+    {
+        "id": "R7124623",
+        "name": "Huyện Thiệu Hóa",
+        "nameLocal": "Huyện Thiệu Hóa",
+        "countryId": "R1898590",
+        "displayName": "Huyện Thiệu Hóa"
+    },
+    {
+        "id": "R7125467",
+        "name": "Huyện Thọ Xuân",
+        "nameLocal": "Huyện Thọ Xuân",
+        "countryId": "R1898590",
+        "displayName": "Huyện Thọ Xuân"
+    },
+    {
+        "id": "R7018178",
+        "name": "Huyện Thường Xuân",
+        "nameLocal": "Huyện Thường Xuân",
+        "countryId": "R1898590",
+        "displayName": "Huyện Thường Xuân"
+    },
+    {
+        "id": "R7022867",
+        "name": "Huyện Tĩnh Gia",
+        "nameLocal": "Huyện Tĩnh Gia",
+        "countryId": "R1898590",
+        "displayName": "Huyện Tĩnh Gia"
+    },
+    {
+        "id": "R7027190",
+        "name": "Huyện Triệu Sơn",
+        "nameLocal": "Huyện Triệu Sơn",
+        "countryId": "R1898590",
+        "displayName": "Huyện Triệu Sơn"
+    },
+    {
+        "id": "R7125487",
+        "name": "Huyện Vĩnh Lộc",
+        "nameLocal": "Huyện Vĩnh Lộc",
+        "countryId": "R1898590",
+        "displayName": "Huyện Vĩnh Lộc"
+    },
+    {
+        "id": "R7125468",
+        "name": "Huyện Yên Định",
+        "nameLocal": "Huyện Yên Định",
+        "countryId": "R1898590",
+        "displayName": "Huyện Yên Định"
+    },
+    {
+        "id": "R7026071",
+        "name": "Thành Phố Sầm Sơn",
+        "nameLocal": "Thành Phố Sầm Sơn",
+        "countryId": "R1898590",
+        "displayName": "Thành Phố Sầm Sơn"
+    },
+    {
+        "id": "R7124593",
+        "name": "Thành Phố Thanh Hóa",
+        "nameLocal": "Thành Phố Thanh Hóa",
+        "countryId": "R1898590",
+        "displayName": "Thành Phố Thanh Hóa"
+    },
+    {
+        "id": "R7125704",
+        "name": "Thị Xã Bỉm Sơn",
+        "nameLocal": "Thị Xã Bỉm Sơn",
+        "countryId": "R1898590",
+        "displayName": "Thị Xã Bỉm Sơn"
+    },
+    {
+        "id": "R7051220",
+        "name": "Huyện A Lưới",
+        "nameLocal": "Huyện A Lưới",
+        "countryId": "R1891483",
+        "displayName": "Huyện A Lưới"
+    },
+    {
+        "id": "R7051223",
+        "name": "Huyện Nam Đông",
+        "nameLocal": "Huyện Nam Đông",
+        "countryId": "R1891483",
+        "displayName": "Huyện Nam Đông"
+    },
+    {
+        "id": "R7051224",
+        "name": "Huyện Phong Điền",
+        "nameLocal": "Huyện Phong Điền",
+        "countryId": "R1891483",
+        "displayName": "Huyện Phong Điền"
+    },
+    {
+        "id": "R7051225",
+        "name": "Huyện Phú Lộc",
+        "nameLocal": "Huyện Phú Lộc",
+        "countryId": "R1891483",
+        "displayName": "Huyện Phú Lộc"
+    },
+    {
+        "id": "R7051226",
+        "name": "Huyện Phú Vang",
+        "nameLocal": "Huyện Phú Vang",
+        "countryId": "R1891483",
+        "displayName": "Huyện Phú Vang"
+    },
+    {
+        "id": "R7051227",
+        "name": "Huyện Quảng Điền",
+        "nameLocal": "Huyện Quảng Điền",
+        "countryId": "R1891483",
+        "displayName": "Huyện Quảng Điền"
+    },
+    {
+        "id": "R7050386",
+        "name": "Thành Phố Huế",
+        "nameLocal": "Thành Phố Huế",
+        "countryId": "R1891483",
+        "displayName": "Thành Phố Huế"
+    },
+    {
+        "id": "R7051221",
+        "name": "Thị Xã Hương Thủy",
+        "nameLocal": "Thị Xã Hương Thủy",
+        "countryId": "R1891483",
+        "displayName": "Thị Xã Hương Thủy"
+    },
+    {
+        "id": "R7051222",
+        "name": "Thị Xã Hương Trà",
+        "nameLocal": "Thị Xã Hương Trà",
+        "countryId": "R1891483",
+        "displayName": "Thị Xã Hương Trà"
+    },
+    {
+        "id": "R7155669",
+        "name": "Huyện Cái Bè",
+        "nameLocal": "Huyện Cái Bè",
+        "countryId": "R1876011",
+        "displayName": "Huyện Cái Bè"
+    },
+    {
+        "id": "R7155718",
+        "name": "Huyện Cai Lậy",
+        "nameLocal": "Huyện Cai Lậy",
+        "countryId": "R1876011",
+        "displayName": "Huyện Cai Lậy"
+    },
+    {
+        "id": "R7155763",
+        "name": "Huyện Châu Thành",
+        "nameLocal": "Huyện Châu Thành",
+        "countryId": "R1876011",
+        "displayName": "Huyện Châu Thành"
+    },
+    {
+        "id": "R7155801",
+        "name": "Huyện Chợ Gạo",
+        "nameLocal": "Huyện Chợ Gạo",
+        "countryId": "R1876011",
+        "displayName": "Huyện Chợ Gạo"
+    },
+    {
+        "id": "R7155875",
+        "name": "Huyện Gò Công Đông",
+        "nameLocal": "Huyện Gò Công Đông",
+        "countryId": "R1876011",
+        "displayName": "Huyện Gò Công Đông"
+    },
+    {
+        "id": "R7155854",
+        "name": "Huyện Gò Công Tây",
+        "nameLocal": "Huyện Gò Công Tây",
+        "countryId": "R1876011",
+        "displayName": "Huyện Gò Công Tây"
+    },
+    {
+        "id": "R7155823",
+        "name": "Huyện Tân Phú Đông",
+        "nameLocal": "Huyện Tân Phú Đông",
+        "countryId": "R1876011",
+        "displayName": "Huyện Tân Phú Đông"
+    },
+    {
+        "id": "R7155756",
+        "name": "Huyện Tân Phước",
+        "nameLocal": "Huyện Tân Phước",
+        "countryId": "R1876011",
+        "displayName": "Huyện Tân Phước"
+    },
+    {
+        "id": "R7155798",
+        "name": "Thành Phố Mỹ Tho",
+        "nameLocal": "Thành Phố Mỹ Tho",
+        "countryId": "R1876011",
+        "displayName": "Thành Phố Mỹ Tho"
+    },
+    {
+        "id": "R80314320",
+        "name": "Thị Xã Cai Lậy",
+        "nameLocal": "Thị Xã Cai Lậy",
+        "countryId": "R1876011",
+        "displayName": "Thị Xã Cai Lậy"
+    },
+    {
+        "id": "R7155899",
+        "name": "Thị Xã Gò Công",
+        "nameLocal": "Thị Xã Gò Công",
+        "countryId": "R1876011",
+        "displayName": "Thị Xã Gò Công"
+    },
+    {
+        "id": "R7151589",
+        "name": "Huyện Càng Long",
+        "nameLocal": "Huyện Càng Long",
+        "countryId": "R1873642",
+        "displayName": "Huyện Càng Long"
+    },
+    {
+        "id": "R7151566",
+        "name": "Huyện Cầu Kè",
+        "nameLocal": "Huyện Cầu Kè",
+        "countryId": "R1873642",
+        "displayName": "Huyện Cầu Kè"
+    },
+    {
+        "id": "R80000007",
+        "name": "Huyện Cầu Ngang",
+        "nameLocal": "Huyện Cầu Ngang",
+        "countryId": "R1873642",
+        "displayName": "Huyện Cầu Ngang"
+    },
+    {
+        "id": "R80000006",
+        "name": "Huyện Châu Thành",
+        "nameLocal": "Huyện Châu Thành",
+        "countryId": "R1873642",
+        "displayName": "Huyện Châu Thành"
+    },
+    {
+        "id": "R7151532",
+        "name": "Huyện Duyên Hải",
+        "nameLocal": "Huyện Duyên Hải",
+        "countryId": "R1873642",
+        "displayName": "Huyện Duyên Hải"
+    },
+    {
+        "id": "R7151560",
+        "name": "Huyện Tiểu Cần",
+        "nameLocal": "Huyện Tiểu Cần",
+        "countryId": "R1873642",
+        "displayName": "Huyện Tiểu Cần"
+    },
+    {
+        "id": "R7151558",
+        "name": "Huyện Trà Cú",
+        "nameLocal": "Huyện Trà Cú",
+        "countryId": "R1873642",
+        "displayName": "Huyện Trà Cú"
+    },
+    {
+        "id": "R7151609",
+        "name": "Thành Phố Trà Vinh",
+        "nameLocal": "Thành Phố Trà Vinh",
+        "countryId": "R1873642",
+        "displayName": "Thành Phố Trà Vinh"
+    },
+    {
+        "id": "R80314314",
+        "name": "Thị Xã Duyên Hải",
+        "nameLocal": "Thị Xã Duyên Hải",
+        "countryId": "R1873642",
+        "displayName": "Thị Xã Duyên Hải"
+    },
+    {
+        "id": "R7112599",
+        "name": "Huyện Chiêm Hoá",
+        "nameLocal": "Huyện Chiêm Hoá",
+        "countryId": "R1903418",
+        "displayName": "Huyện Chiêm Hoá"
+    },
+    {
+        "id": "R7112600",
+        "name": "Huyện Hàm Yên",
+        "nameLocal": "Huyện Hàm Yên",
+        "countryId": "R1903418",
+        "displayName": "Huyện Hàm Yên"
+    },
+    {
+        "id": "R7112463",
+        "name": "Huyện Lâm Bình",
+        "nameLocal": "Huyện Lâm Bình",
+        "countryId": "R1903418",
+        "displayName": "Huyện Lâm Bình"
+    },
+    {
+        "id": "R7112494",
+        "name": "Huyện Na Hang",
+        "nameLocal": "Huyện Na Hang",
+        "countryId": "R1903418",
+        "displayName": "Huyện Na Hang"
+    },
+    {
+        "id": "R7112610",
+        "name": "Huyện Sơn Dương",
+        "nameLocal": "Huyện Sơn Dương",
+        "countryId": "R1903418",
+        "displayName": "Huyện Sơn Dương"
+    },
+    {
+        "id": "R7112602",
+        "name": "Huyện Yên Sơn",
+        "nameLocal": "Huyện Yên Sơn",
+        "countryId": "R1903418",
+        "displayName": "Huyện Yên Sơn"
+    },
+    {
+        "id": "R7112601",
+        "name": "Thành Phố Tuyên Quang",
+        "nameLocal": "Thành Phố Tuyên Quang",
+        "countryId": "R1903418",
+        "displayName": "Thành Phố Tuyên Quang"
+    },
+    {
+        "id": "R7151112",
+        "name": "Huyện Bình Tân",
+        "nameLocal": "Huyện Bình Tân",
+        "countryId": "R1875887",
+        "displayName": "Huyện Bình Tân"
+    },
+    {
+        "id": "R7151391",
+        "name": "Huyện Long Hồ",
+        "nameLocal": "Huyện Long Hồ",
+        "countryId": "R1875887",
+        "displayName": "Huyện Long Hồ"
+    },
+    {
+        "id": "R7151380",
+        "name": "Huyện Mang Thít",
+        "nameLocal": "Huyện Mang Thít",
+        "countryId": "R1875887",
+        "displayName": "Huyện Mang Thít"
+    },
+    {
+        "id": "R7151155",
+        "name": "Huyện Tam Bình",
+        "nameLocal": "Huyện Tam Bình",
+        "countryId": "R1875887",
+        "displayName": "Huyện Tam Bình"
+    },
+    {
+        "id": "R7151142",
+        "name": "Huyện Trà Ôn",
+        "nameLocal": "Huyện Trà Ôn",
+        "countryId": "R1875887",
+        "displayName": "Huyện Trà Ôn"
+    },
+    {
+        "id": "R7150814",
+        "name": "Huyện Vũng Liêm",
+        "nameLocal": "Huyện Vũng Liêm",
+        "countryId": "R1875887",
+        "displayName": "Huyện Vũng Liêm"
+    },
+    {
+        "id": "R7151388",
+        "name": "Thành Phố Vĩnh Long",
+        "nameLocal": "Thành Phố Vĩnh Long",
+        "countryId": "R1875887",
+        "displayName": "Thành Phố Vĩnh Long"
+    },
+    {
+        "id": "R7150853",
+        "name": "Thị Xã Bình Minh",
+        "nameLocal": "Thị Xã Bình Minh",
+        "countryId": "R1875887",
+        "displayName": "Thị Xã Bình Minh"
+    },
+    {
+        "id": "R7119169",
+        "name": "Huyện Bình Xuyên",
+        "nameLocal": "Huyện Bình Xuyên",
+        "countryId": "R1902889",
+        "displayName": "Huyện Bình Xuyên"
+    },
+    {
+        "id": "R7118344",
+        "name": "Huyện Lập Thạch",
+        "nameLocal": "Huyện Lập Thạch",
+        "countryId": "R1902889",
+        "displayName": "Huyện Lập Thạch"
+    },
+    {
+        "id": "R80000001",
+        "name": "Huyện Sông Lô",
+        "nameLocal": "Huyện Sông Lô",
+        "countryId": "R1902889",
+        "displayName": "Huyện Sông Lô"
+    },
+    {
+        "id": "R7118654",
+        "name": "Huyện Tam Dương",
+        "nameLocal": "Huyện Tam Dương",
+        "countryId": "R1902889",
+        "displayName": "Huyện Tam Dương"
+    },
+    {
+        "id": "R7118620",
+        "name": "Huyện Tam Đảo",
+        "nameLocal": "Huyện Tam Đảo",
+        "countryId": "R1902889",
+        "displayName": "Huyện Tam Đảo"
+    },
+    {
+        "id": "R7118785",
+        "name": "Huyện Vĩnh Tường",
+        "nameLocal": "Huyện Vĩnh Tường",
+        "countryId": "R1902889",
+        "displayName": "Huyện Vĩnh Tường"
+    },
+    {
+        "id": "R7118894",
+        "name": "Huyện Yên Lạc",
+        "nameLocal": "Huyện Yên Lạc",
+        "countryId": "R1902889",
+        "displayName": "Huyện Yên Lạc"
+    },
+    {
+        "id": "R7119195",
+        "name": "Thành Phố Phúc Yên",
+        "nameLocal": "Thành Phố Phúc Yên",
+        "countryId": "R1902889",
+        "displayName": "Thành Phố Phúc Yên"
+    },
+    {
+        "id": "R7118793",
+        "name": "Thành Phố Vĩnh Yên",
+        "nameLocal": "Thành Phố Vĩnh Yên",
+        "countryId": "R1902889",
+        "displayName": "Thành Phố Vĩnh Yên"
+    },
+    {
+        "id": "R7097662",
+        "name": "Huyện Lục Yên",
+        "nameLocal": "Huyện Lục Yên",
+        "countryId": "R1903199",
+        "displayName": "Huyện Lục Yên"
+    },
+    {
+        "id": "R7097625",
+        "name": "Huyện Mù Cang Chải",
+        "nameLocal": "Huyện Mù Cang Chải",
+        "countryId": "R1903199",
+        "displayName": "Huyện Mù Cang Chải"
+    },
+    {
+        "id": "R6924096",
+        "name": "Huyện Trạm Tấu",
+        "nameLocal": "Huyện Trạm Tấu",
+        "countryId": "R1903199",
+        "displayName": "Huyện Trạm Tấu"
+    },
+    {
+        "id": "R7097784",
+        "name": "Huyện Trấn Yên",
+        "nameLocal": "Huyện Trấn Yên",
+        "countryId": "R1903199",
+        "displayName": "Huyện Trấn Yên"
+    },
+    {
+        "id": "R7097620",
+        "name": "Huyện Văn Chấn",
+        "nameLocal": "Huyện Văn Chấn",
+        "countryId": "R1903199",
+        "displayName": "Huyện Văn Chấn"
+    },
+    {
+        "id": "R7097624",
+        "name": "Huyện Văn Yên",
+        "nameLocal": "Huyện Văn Yên",
+        "countryId": "R1903199",
+        "displayName": "Huyện Văn Yên"
+    },
+    {
+        "id": "R7097708",
+        "name": "Huyện Yên Bình",
+        "nameLocal": "Huyện Yên Bình",
+        "countryId": "R1903199",
+        "displayName": "Huyện Yên Bình"
+    },
+    {
+        "id": "R7097783",
+        "name": "Thành Phố Yên Bái",
+        "nameLocal": "Thành Phố Yên Bái",
+        "countryId": "R1903199",
+        "displayName": "Thành Phố Yên Bái"
+    },
+    {
+        "id": "R7097596",
+        "name": "Thị Xã Nghĩa Lộ",
+        "nameLocal": "Thị Xã Nghĩa Lộ",
+        "countryId": "R1903199",
+        "displayName": "Thị Xã Nghĩa Lộ"
+    }
+    
+}

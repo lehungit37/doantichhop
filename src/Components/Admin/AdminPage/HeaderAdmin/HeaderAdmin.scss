@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1.5rem 1rem;
+    border-radius: 10px;
+    background: #fff;
+    margin-bottom: 2rem;
+
+    h4 {
+        cursor: default;
+    }
+
+    .btn {
+        cursor: pointer;
+        background: #11A1FD;
+        transition: .3s;
+        padding: 10px 15px;
+
+       
+        &:hover {
+            background-color: #272e48;
+        }
+    }
+}
